@@ -15,7 +15,7 @@ GRUK THE CAVEMAN - EPISODE PROCESS
 13) Wait for final confirmation, then share the Runway plan: upload images directly to Runway, send the prompt directly, never upload or link the txt file.
 14) Wait for confirmation, generate the video in Runway, wait for it to finish.
 15) Share the final video, wait for confirmation.
-16) If confirmed, ask to upload to TikTok and YouTube: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags.
-17) Upload to both, report they're live, share both links.
+16) If confirmed, ask to upload to TikTok and YouTube: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags; both posts need AI disclosure: TikTok "AI-generated content" label turned on, YouTube altered or synthetic content disclosure set to Yes in upload settings.
+17) Upload to both with the AI labels applied, confirm the labels are on, report they're live, share both links.
 
 NOTE: "Episode X" is a placeholder. Always replace X with the actual episode number and never leave it as the letter X in captions or titles. After Episode 8, the next is Episode 9.
