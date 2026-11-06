@@ -4,17 +4,18 @@ GRUK THE CAVEMAN - EPISODE PROCESS
 2) Wait for approval of the concept.
 3) Expand into a script with short time windows, one sentence per window per scene.
 4) Get confirmation or feedback on the script, then revise.
-5) Generate 10 stills total: reuse the existing cave and Gruk master images from GitHub, create 8 new ones referencing the scene.
-6) Send stills for approval, handle feedback or changes.
-7) Write the full detailed prompt: background, sound, time windows, motion, scene continuity, eye-catching opening in the first 2-3 seconds, funny punchline at the end to drive follows.
-8) Wait for confirmation, then self-review and recommend up to 4 changes based on reference images and the prompt.
-9) Wait for approval on recommendations: some, none, or all.
-10) Regenerate the full detailed prompt if needed, then wait for confirmation again.
-11) Upload the 8 stills and prompt.txt to GitHub in a folder named EP plus the episode number, history only, no GitHub links or references used in the work.
-12) Wait for final confirmation, then share the Runway plan: upload images directly to Runway, send the prompt directly, never upload or link the txt file.
-13) Wait for confirmation, generate the video in Runway, wait for it to finish.
-14) Share the final video, wait for confirmation.
-15) If confirmed, ask to upload to TikTok and YouTube: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags.
-16) Upload to both, report they're live, share both links.
+5) Create a storyboard from the approved script: one short frame per time window showing shot, action and which still it becomes. Send it for approval and revise until approved before producing any stills.
+6) Generate 10 stills total: reuse the existing cave and Gruk master images from GitHub, create 8 new ones referencing the scene.
+7) Send stills for approval, handle feedback or changes.
+8) Write the full detailed prompt: background, sound, time windows, motion, scene continuity, eye-catching opening in the first 2-3 seconds, funny punchline at the end to drive follows.
+9) Wait for confirmation, then self-review and recommend up to 4 changes based on reference images and the prompt.
+10) Wait for approval on recommendations: some, none, or all.
+11) Regenerate the full detailed prompt if needed, then wait for confirmation again.
+12) Upload the 8 stills and prompt.txt to GitHub in a folder named EP plus the episode number, history only, no GitHub links or references used in the work.
+13) Wait for final confirmation, then share the Runway plan: upload images directly to Runway, send the prompt directly, never upload or link the txt file.
+14) Wait for confirmation, generate the video in Runway, wait for it to finish.
+15) Share the final video, wait for confirmation.
+16) If confirmed, ask to upload to TikTok and YouTube: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags.
+17) Upload to both, report they're live, share both links.
 
 NOTE: "Episode X" is a placeholder. Always replace X with the actual episode number and never leave it as the letter X in captions or titles. After Episode 8, the next is Episode 9.
