@@ -4,13 +4,13 @@ GRUK THE CAVEMAN - EPISODE PROCESS
 2) Wait for approval of the concept.
 3) Expand into a script with short time windows, one sentence per window per scene.
 4) Get confirmation or feedback on the script, then revise.
-5) Generate 12 stills total: reuse the existing cave and Gruk master images from GitHub, create 10 new ones referencing the scene.
+5) Generate 10 stills total: reuse the existing cave and Gruk master images from GitHub, create 8 new ones referencing the scene.
 6) Send stills for approval, handle feedback or changes.
 7) Write the full detailed prompt: background, sound, time windows, motion, scene continuity, eye-catching opening in the first 2-3 seconds, funny punchline at the end to drive follows.
 8) Wait for confirmation, then self-review and recommend up to 4 changes based on reference images and the prompt.
 9) Wait for approval on recommendations: some, none, or all.
 10) Regenerate the full detailed prompt if needed, then wait for confirmation again.
-11) Upload the 10 stills and prompt.txt to GitHub in a folder named EP plus the episode number, history only, no GitHub links or references used in the work.
+11) Upload the 8 stills and prompt.txt to GitHub in a folder named EP plus the episode number, history only, no GitHub links or references used in the work.
 12) Wait for final confirmation, then share the Runway plan: upload images directly to Runway, send the prompt directly, never upload or link the txt file.
 13) Wait for confirmation, generate the video in Runway, wait for it to finish.
 14) Share the final video, wait for confirmation.
