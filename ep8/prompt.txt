@@ -1,0 +1,78 @@
+Create a 15 seconds 720p 9:16 vertical video with Seedance 2.5, with synchronized sound.
+
+STORY
+A strange glowing disc rolls into Gruk's cave and suddenly races toward him. Gruk goes from puzzlement to shock to curiosity, pokes it, bravely climbs on top, and is carried out of his cave on a wobbly ride he can barely balance on. His arc is puzzlement, then shock, then curiosity, then nervous pride, then wobbly panic mixed with wonder.
+
+STYLE
+Cinematic stylized 3D animation, polished animated-feature look that matches Gruk's original character reference. One uninterrupted shot with believable weight, clear physical comedy and readable expressions. No character dialogue, narration, subtitles, written sound effects, logos, brand markings, title screen or end card.
+
+REFERENCE PRIORITY — IMPORTANT
+Each reference has a distinct purpose:
+1. Gruk character (gruk-character.jpg) controls Gruk's identity: face, hair, beard, anatomy, proportions and clothing.
+2. Gruk's cave (gruk-cave.jpg) controls the environment: cave shape, wall paintings, props, fire ring, entrance and lighting.
+3. Robot vacuum (robot-vacuum-ref.png) controls the vacuum's exact design.
+4. Beat stills 00a–06 (10 images) control the composition, positions and acting progression.
+
+The beat stills are illustrative. Prioritize continuous movement and clear storytelling over reproducing individual poses. Adjust positions, framing and poses when needed for continuity, while keeping character proportions, relative scale and environment dimensions consistent. Do not create a slideshow, freeze at reference poses, teleport limbs or change designs between actions.
+
+BEAT STILLS — ORDER
+- 0–0.5s: Still 00a, the vacuum shoots in at the far entrance with a whoosh, its blue light flashing on, and Gruk turns, puzzled.
+- 0.5–1s: Still 00b, the vacuum rushes across the cave and Gruk recoils.
+- 1–2s: Still 01, the vacuum skids to a stop in the foreground and Gruk leaps back, arms up.
+- 2–3s: Still 02, Gruk crouches and pokes the vacuum.
+- 3–4s: Still 02b, the chime goes off and Gruk snaps his hand back to his chest.
+- 5–6s: Still 03a, Gruk tests one foot on top.
+- 6–8s: Still 03, Gruk stands on the vacuum, arms out.
+- 8–12s: Still 04, the wobbly ride in front of the fire.
+- 12–14s: Still 05, heading toward the entrance.
+- 14–15s: Still 06, riding out through the entrance.
+
+GRUK — CHARACTER
+Match the original Gruk image closely. He's an adult muscular caveman with broad shoulders, a hairy chest and arms, warm tan skin, a large rounded projecting nose, expressive brown eyes and heavy dark eyebrows. Shaggy shoulder-length dark brown hair and a short, scruffy dark beard following his jawline. Keep his long face and head-to-body proportions, and don't enlarge or round his head, lengthen his beard or redesign his face. His rough brown hide tunic crosses his anatomical LEFT shoulder, leaving his RIGHT shoulder bare, and is held by a dark leather waist cord. Bare feet. His hands are empty throughout, and he never holds any object. The tunic stays intact and naturally draped, and his hair and tunic follow his movement naturally without excessive flapping.
+
+ENVIRONMENT — GRUK'S CAVE
+Matches the cave reference: a beige limestone interior with smooth, rounded walls. On the left wall are dark mammoth paintings and handprints. On the floor at the left are a fur bed, a wooden club and a bone, which stay on the floor untouched. Center-right holds a stone fire ring with glowing embers. In the back center, an arched entrance opens onto a misty fern forest with tall trees. Packed, dusty earth floor with small pebbles. Warm orange firelight from screen-right mixes with cool, misty daylight from the entrance. Soft dust motes float in the light. Wheel tracks in the dust build up gradually as the vacuum moves: first from the entrance to the foreground, then along the ride path and back out the entrance. The cave layout, props, weather and lighting stay the same throughout. No other characters. The vacuum is the only modern object.
+
+THE ROBOT VACUUM
+A generic round robot vacuum exactly matching its reference: a glossy white disc with a charcoal-black lower rim and front bumper strip, a small round sensor turret on top with a soft blue glowing ring, a three-arm side brush and black rubber wheels. About 35 cm wide and 10 cm tall. No logos, text or brand markings, and its design, size and light color never change. Its blue ring gives a small cool glow on the floor and on Gruk.
+
+CAMERA AND COMPOSITION
+One continuous, fully locked-off shot from inside the cave at about Gruk's waist height, facing the arched entrance in the back center, exactly as in the beat stills. The camera doesn't pan, zoom, shake, cut, shift focus or change axis. All motion comes from the characters. Keep Gruk's whole head, hands and both feet visible whenever he's in the foreground, with clear space above his head for raised arms. Keep faces and key action away from the far-right edge and the bottom of the frame, where social-platform buttons and captions may cover them. Use enough depth of field for Gruk's expressions and the vacuum to stay sharp from the foreground to the entrance.
+
+TIMELINE
+
+0–0.5s — ARRIVAL. Opens already in motion. In the very first frame, the robot vacuum shoots in over the threshold of the bright entrance with a quick whoosh, small in the background, its blue ring flashing on like a little eye, kicking up a puff of dust and a few leaves behind it. Gruk stands relaxed at screen-left near the fur bed, hands empty, and turns his head toward it, puzzled, with one eyebrow raised.
+
+0.5–1s — RUSH. The vacuum suddenly accelerates across the cave floor straight toward the foreground, leaving a streak of dust and fresh tracks. Gruk spins toward it, startled, eyes wide, mouth opening, leaning back with his hands coming up.
+
+1–2s — SKID STOP. The vacuum skids to a stop in the center foreground and beeps once. Gruk leaps back near the fur bed with both arms flung up and mouth wide in shock.
+
+2–3s — CURIOUS POKE. Gruk creeps forward, crouches beside the vacuum and slowly stretches out one finger to touch its top turret.
+
+3–4s — CHIME RECOIL. On contact the vacuum plays a cheerful electronic chime, the blue ring flashes bright and the turret spins. Gruk snaps his hand back to his chest and freezes in a crouch, eyes huge, lips pursed in a startled "ooh."
+
+4–5s — FASCINATION. Gruk slowly leans in again, fascinated, and rises to his feet beside the vacuum.
+
+5–6s — FIRST FOOT. Gruk cautiously places one bare foot on top of the vacuum to test it, his other foot still on the ground. His arms are slightly out, his brow is furrowed and his tongue pokes out in concentration.
+
+6–8s — STANDING. He brings up the other foot and stands on top of the vacuum, knees bent, arms spread wide for balance, with a nervous, proud grin. The vacuum dips very slightly under his weight and gives a short rising beep.
+
+8–12s — THE RIDE. The vacuum starts driving with Gruk on top. It makes a small turn in the open floor in front of the fire ring, then heads toward the entrance. Gruk is clearly unstable: knees wobble, arms windmill, his hips and torso sway front to back, his hair and tunic bounce, and he nearly tips but recovers, eyes wide with panic and excitement.
+
+12–14s — HEADING OUT. The vacuum carries Gruk away from the camera across the cave toward the arched entrance, along a fresh track in the dust. He keeps wobbling with his arms out wide.
+
+14–15s — EXIT. The vacuum carries him through the arched entrance with the bright misty fern forest beyond. Gruk glances back over his shoulder toward the camera with a mix of panic and amazement. As they disappear, the vacuum gives one cheerful beep. In the final frame they're small but clearly readable in the center of the entrance.
+
+PHYSICAL CONTINUITY
+Gruk's bare feet stay planted on top of the vacuum during the ride, and he never slides off or floats. His balance comes from his knees, hips, torso and arms, with clear changes of weight. The vacuum moves smoothly with believable wheel contact on the dusty floor. Gruk's size relative to the vacuum and the cave stays constant, and the vacuum gets visibly smaller as it moves away toward the entrance.
+
+SOUND
+Soft crackling fire and light cave ambience in the background throughout. Whenever the robot vacuum moves, it makes a soft, realistic vacuum-cleaner sound: a gentle suction whir with a light motor hum, plus spinning brushes and rolling wheels. It's audible and continuous while the vacuum moves, but subtle, sitting at a similar level to the ambience and never overpowering the chimes or Gruk's reactions.
+- 0–1s: a quick whoosh as the vacuum shoots in at the entrance, then the soft whir grows as it rushes across the cave toward the camera.
+- 1–2s: the whir cuts off at the skid stop with a single beep, and Gruk gasps.
+- 2–8s: the vacuum is still with its suction off. A cheerful electronic chime plays when Gruk pokes it, and a short rising beep when he stands on it, plus Gruk's curious grunts.
+- 8–15s: the soft whir starts again for the ride, with light crunching of dirt and pebbles under the wheels. It fades gradually as they move away, forest birds fade in at the exit, and the vacuum gives one final cheerful beep as they disappear.
+
+Gruk makes only grunts and gasps, no words.
+
+Attach 13 images in this order: Gruk, the cave, the vacuum, then stills 00a, 00b, 01, 02, 02b, 03a, 03, 04, 05 and 06.
