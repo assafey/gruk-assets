@@ -20,7 +20,7 @@ GRUK THE CAVEMAN - EPISODE PROCESS
 
 NOTE: "Episode X" is a placeholder. Always replace X with the actual episode number and never leave it as the letter X in captions or titles. After Episode 8, the next is Episode 9.
 NOTE: Gruk never speaks words. Audio is only non-verbal caveman vocalizations (grunts, huffs, yelps) plus sound effects. No dialogue and no spoken punchlines; the joke and punchline land visually or through sound.
-NOTE: CMO REVIEW: Every deliverable needing owner approval (idea, script, storyboard, full detailed prompt, captions) goes to the CMO first. The CMO gives two rounds of critical feedback and the bot revises after each. Only the final revision after both rounds is shared with the owner, before any asset generation. After the stills are generated (step 6), the CMO reviews them and may have up to 4 images redone, only if truly required, before presenting them to the owner (step 7).
+NOTE: CMO REVIEW: Every deliverable needing owner approval (idea, script, storyboard, full detailed prompt, captions) goes to the CMO first. The CMO gives two rounds of critical feedback and the bot revises after each. Only the final revision after both rounds is shared with the owner, before any asset generation. After the stills are generated (step 6), the CMO reviews them and may have up to 4 images redone, only if truly required, before presenting them to the owner (step 7). The CMO reviews every deliverable against the series goal: the first 2-3 seconds grab attention, the episode ends with a strong punchline, and the story is good enough to bring followers.
 
 FEEDBACK LOG
 All owner feedback is recorded here and shared with the relevant bots.
@@ -32,3 +32,4 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07: Creative Designer publishes all assets and the final video to GitHub (ep<N>/ on main) for every episode.
 2026-11-07 - Assaf: GitHub episode folder names must always be lowercase (ep9/, ep10/...). Ep9 assets were mistakenly placed in uppercase EP9/.
 2026-11-07 - Assaf: CMO is the critical reviewer, with two feedback rounds with the Copywriter and Creative Designer before anything reaches the owner, and up to 4 stills redone after CMO review.
+2026-11-07 - Assaf: Goal for every episode: grab attention in the first 2-3 seconds, end with a punchline, and tell a good story that brings followers.
