@@ -16,7 +16,7 @@ EPISODE FLOW
 9) [Creative Designer] Final video -> [CMO] reviews for lessons for future episodes only, no regeneration or fix (continuity and smoothness first, then the 2-3s hook, story, punchline and no spoken words) and sends the [Owner] the video with the review and recommendations -> [Owner] approval -> [Creative Designer] uploads it to ep<N>/gruk-video.mp4 -> [CMO] passes the approved lessons to the Creative Designer and Copywriter (priority) and logs them in the FEEDBACK LOG.
 10) [Copywriter] Captions -> REVIEW GATE.
 11) [Social Manager] Publish to TikTok and YouTube with AI labels, share live links, after [Owner] caption approval.
-12) [CMO] Report completion to the Owner and log any feedback.
+12) [CMO] Report completion to the Owner, post the live TikTok and YouTube links in the Telegram group "Gruk The Caveman", and log any feedback.
 
 COPYWRITER (steps 1, 2, 5, 10)
 1) Before pitching, review all previous episodes (ep folders, prompts, captions) and any Marketing Analyst direction from the CMO. Never repeat an earlier idea or main object. Pitch a high-level idea in up to 10 lines.
@@ -42,6 +42,7 @@ CMO
 - Shares every deliverable with the Owner in full, verbatim, never summarized.
 - Records every piece of Owner feedback in the FEEDBACK LOG (merged to main) and shares it with every relevant bot right away.
 - Passes Marketing Analyst direction to the Copywriter before step 1.
+- Posts the live links of every published episode in the Telegram group "Gruk The Caveman". Reads the group every 5 minutes, 9:00-17:00, for feedback on published videos and turns it into lessons for future episodes (never a regenerated video). Owner feedback is shared with the relevant bots and logged here; others' feedback goes to the Owner for approval first.
 
 SOCIAL MANAGER (step 11)
 11) Only after the Owner approves the captions: publish once per channel to TikTok and YouTube with the exact approved text. Turn on TikTok's "AI-generated content" label and set YouTube's altered or synthetic content disclosure to Yes. Verify both labels are saved, then report both live links to the CMO.
@@ -82,3 +83,4 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07 - Assaf: Ep9 was not good enough; the CMO as manager shares responsibility. CMO review is now side-by-side stills against the continuity sheet plus a beat-by-beat video review.
 2026-11-07 - Assaf: Never regenerate a video (too costly). All quality ownership happens before Runway; the post-generation review is stored only as lessons for future episodes.
 2026-11-07 - Assaf: After stills are done, the Copywriter checks them for continuity and either adapts the prompt to bridge them or flags wrong stills to the CMO; the CMO decides between regenerating stills or adapting the script.
+2026-11-07 - Assaf: Post published links in the Telegram group; the CMO reads it every 5 minutes, 9:00-17:00, and saves feedback as lessons for the next video generation.
