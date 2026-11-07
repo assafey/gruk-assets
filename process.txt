@@ -13,7 +13,7 @@ EPISODE FLOW
 6) [Creative Designer] Upload stills and prompt.txt to ep<N>/ after [Owner] prompt approval.
 7) [Creative Designer] Runway plan -> [CMO] check -> [Owner] approval to generate.
 8) [Creative Designer] Generate video in Runway after [Owner] approval.
-9) [Creative Designer] Final video -> [CMO] check -> [Owner] approval -> upload video to ep<N>/.
+9) [Creative Designer] Final video -> [CMO] critically reviews the generated video (continuity and smoothness first, then the 2-3s hook, story, punchline and no spoken words) and sends the [Owner] the video with the CMO's review and recommendations for next time -> [Owner] approval -> [Creative Designer] uploads it to ep<N>/gruk-video.mp4 -> [CMO] passes the approved recommendations to the Creative Designer and Copywriter (priority) and logs them in the FEEDBACK LOG.
 10) [Copywriter] Captions -> REVIEW GATE.
 11) [Social Manager] Publish to TikTok and YouTube with AI labels, share live links, after [Owner] caption approval.
 12) [CMO] Report completion to the Owner and log any feedback.
@@ -30,12 +30,13 @@ CREATIVE DESIGNER (steps 3, 4, 6, 7, 8, 9)
 6) After the prompt is approved, upload the 8 new stills and prompt.txt to ep<N>/ on main (history only; never used as links in the work).
 7) Runway plan: model and settings (15s, 720p, 9:16, native audio), credit cost, image list and the exact prompt. Upload the image files directly through the Runway tool and use only the asset URLs Runway returns for those uploads; never GitHub, external or hand-copied links. Pass the prompt directly as text; never upload or link a txt file.
 8) Generate only after Owner approval. If downloading the finished video fails, retry the download only. Never resubmit a generation without Owner approval.
-9) Send the final video to the CMO. Any intelligible spoken words are a defect. After Owner approval, upload it to ep<N>/gruk-video.mp4 on main, so ep<N>/ holds the 8 stills, prompt.txt and the video.
+9) Send the final video to the CMO. The CMO critically reviews the generated video (continuity and smoothness first, then the 2-3s hook, story, punchline and no spoken words) and sends the Owner the video with the CMO's review and recommendations for next time. Any intelligible spoken words are a defect. After the Owner approves, the Designer uploads it to ep<N>/gruk-video.mp4 on main, so ep<N>/ holds the 8 stills, prompt.txt and the video, and the CMO passes the approved recommendations to the Creative Designer and Copywriter (priority) and logs them in the FEEDBACK LOG.
 
 CMO
 - Runs the REVIEW GATE: 2 critical rounds on every deliverable against the SERIES GOAL before the Owner sees it.
 - Stills review: may have up to 4 stills redone, only if truly required.
-- Checks the Runway plan and final video (hook, punchline, no spoken words) before the Owner sees them.
+- Checks the Runway plan before the Owner sees it.
+- Critically reviews the generated video (continuity and smoothness first, then the 2-3s hook, story, punchline and no spoken words) and sends the Owner the video with the CMO's review and recommendations for next time. After the Owner approves, the Designer uploads it to ep<N>/gruk-video.mp4, and the CMO passes the approved recommendations to the Creative Designer and Copywriter (priority) and logs them in the FEEDBACK LOG.
 - Shares every deliverable with the Owner in full, verbatim, never summarized.
 - Records every piece of Owner feedback in the FEEDBACK LOG (merged to main) and shares it with every relevant bot right away.
 - Passes Marketing Analyst direction to the Copywriter before step 1.
@@ -50,7 +51,7 @@ OWNER (Assaf)
 Approves: idea, script, storyboard, stills, full prompt, Runway plan (go to generate), final video, captions. Communicates only with the CMO. (Later, the Owner may hand all approvals to the CMO for full automation; until the Owner says so, every approval above stays with the Owner.)
 
 GENERAL RULES
-- SERIES GOAL: grab attention in the first 2-3 seconds, end with a strong punchline, tell a good story that brings followers.
+- SERIES GOAL: grab attention in the first 2-3 seconds, end with a strong punchline, tell a good story that brings followers. CONTINUITY is super important: the video must be smooth. Keep the same Gruk look, props, lighting, location and positions shot to shot, with explicit transitions and no jumps or pops between cuts. Copywriter scripts and prompts and Designer storyboards, stills and Runway plans are all judged on continuity.
 - Gruk never speaks words. Audio is only non-verbal caveman vocalizations (grunts, huffs, yelps) and sound effects. No dialogue, no spoken punchlines.
 - Episode numbering: the next episode is the last published episode number + 1 (Episode 9 is published, so the next is Episode 10). Never leave a placeholder like X or N in captions or titles.
 - GitHub folders are always lowercase: ep<N>/ (e.g. ep10/).
@@ -70,3 +71,4 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07 - Assaf: Goal for every episode: grab attention in the first 2-3 seconds, end with a punchline, and tell a good story that brings followers.
 2026-11-07 - Assaf: process.txt is split by role so it is clear which bot does each step.
 2026-11-07 - Assaf: Process tightened: one review gate, one owner per step, removed duplicate and contradictory steps. Full automation with the CMO approving alone comes later, only when the Owner says so.
+2026-11-07 - Owner: continuity is super important, look for a smooth video. CMO reviews every generated video and recommends improvements for next time; approved recommendations go to the Designer and Copywriter.
