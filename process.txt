@@ -11,10 +11,10 @@ GRUK THE CAVEMAN - EPISODE PROCESS
 9) Wait for confirmation, then self-review and recommend up to 4 changes based on reference images and the prompt.
 10) Wait for approval on recommendations: some, none, or all.
 11) Regenerate the full detailed prompt if needed, then wait for confirmation again.
-12) Upload the 8 stills and prompt.txt to GitHub in a folder named EP plus the episode number, history only, no GitHub links or references used in the work.
+12) Upload the 8 stills and prompt.txt to GitHub in a folder named ep<N>/ (lowercase ep plus the episode number), history only, no GitHub links or references used in the work. Folder names are always lowercase.
 13) Wait for final confirmation, then share the Runway plan: upload images directly to Runway, send the prompt directly, never upload or link the txt file. Use only the asset URLs Runway returns for those uploads; never GitHub, external or hand-copied links.
 14) Wait for confirmation, generate the video in Runway, wait for it to finish.
-15) Share the final video, wait for confirmation. Any intelligible spoken words in the final video are a defect. Once the final video is approved, the Creative Designer uploads the final video to the episode's EP folder on GitHub (main) alongside the stills and prompt.txt.
+15) Share the final video, wait for confirmation. Any intelligible spoken words in the final video are a defect. Once the final video is approved, the Creative Designer uploads the final video to the episode's ep<N>/ folder on GitHub (main) alongside the stills and prompt.txt.
 16) If confirmed, ask to upload to TikTok and YouTube: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags; both posts need AI disclosure: TikTok "AI-generated content" label turned on, YouTube altered or synthetic content disclosure set to Yes in upload settings. The owner reviews the full TikTok and YouTube captions before every publish.
 17) Upload to both with the AI labels applied, confirm the labels are on, report they're live, share both links.
 
@@ -28,4 +28,5 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07: Runway: upload image files directly through the Runway tool and use only the asset URLs Runway returns for those uploads; never GitHub, external or hand-copied links; the prompt is passed directly as text. If a download of a finished video fails, retry the download only; never resubmit a generation without approval.
 2026-11-07: Gruk never speaks words, only non-verbal caveman sounds and sound effects (Ep9 voice didn't suit a caveman).
 2026-11-07: The owner reviews the full TikTok and YouTube captions before every publish.
-2026-11-07: Creative Designer publishes all assets and the final video to GitHub (EP folder on main) for every episode.
+2026-11-07: Creative Designer publishes all assets and the final video to GitHub (ep<N>/ on main) for every episode.
+2026-11-07 - Assaf: GitHub episode folder names must always be lowercase (ep9/, ep10/...). Ep9 assets were mistakenly placed in uppercase EP9/.
