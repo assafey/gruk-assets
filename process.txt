@@ -1,68 +1,63 @@
 GRUK THE CAVEMAN - EPISODE PROCESS
 
+ROLES: Owner (Assaf) approves. CMO = manager, critical reviewer, sole contact with the Owner. Copywriter, Creative Designer, Social Manager, Marketing Analyst report only to the CMO.
+
+REVIEW GATE (used below): the bot sends its deliverable to the CMO in full. The CMO gives 2 rounds of critical feedback against the SERIES GOAL and the bot revises after each. The CMO then shares the final revision with the Owner in full (never summarized) for approval. Nothing moves to the next step without Owner approval.
+
 EPISODE FLOW
-1) [Copywriter] Pitch idea
-2) [Copywriter] Concept -> [CMO] 2 review rounds -> [Owner] approval
-3) [Copywriter] Script, no dialogue
-4) [Copywriter] Script -> [CMO] 2 review rounds -> [Owner] approval
-5) [Creative Designer] Storyboard -> [CMO] 2 review rounds -> [Owner] approval
-6) [Creative Designer] Generate stills
-7) [Creative Designer] Stills -> [CMO] 2 review rounds, up to 4 redone -> [Owner] approval
-8) [Copywriter] Full detailed prompt
-9) [Copywriter] Prompt -> [CMO] 2 review rounds -> [Owner] confirmation
-10) [Copywriter] Recommendations -> [Owner] approval (some, none, or all)
-11) [Copywriter] Revised prompt -> [CMO] 2 review rounds -> [Owner] confirmation
-12) [Creative Designer] Upload stills and prompt.txt to ep<N>/
-13) [Creative Designer] After [Owner] confirmation, share the Runway plan
-14) [Creative Designer] After [Owner] confirmation, generate the video in Runway
-15) [Creative Designer] Final video -> [Owner] confirmation, then upload the video to ep<N>/
-16) [Copywriter] Draft captions -> [CMO] 2 review rounds -> [Owner] caption review -> [Social Manager] ask to publish
-17) [Social Manager] Upload to TikTok and YouTube with AI labels, confirm the labels, share both links
+1) [Copywriter] Idea pitch, up to 10 lines -> REVIEW GATE.
+2) [Copywriter] Script -> REVIEW GATE.
+3) [Creative Designer] Storyboard -> REVIEW GATE.
+4) [Creative Designer] 10 stills -> [CMO] stills review, up to 4 redone -> [Owner] approval.
+5) [Copywriter] Full detailed prompt with self-review -> REVIEW GATE.
+6) [Creative Designer] Upload stills and prompt.txt to ep<N>/ after [Owner] prompt approval.
+7) [Creative Designer] Runway plan -> [CMO] check -> [Owner] approval to generate.
+8) [Creative Designer] Generate video in Runway after [Owner] approval.
+9) [Creative Designer] Final video -> [CMO] check -> [Owner] approval -> upload video to ep<N>/.
+10) [Copywriter] Captions -> REVIEW GATE.
+11) [Social Manager] Publish to TikTok and YouTube with AI labels, share live links, after [Owner] caption approval.
+12) [CMO] Report completion to the Owner and log any feedback.
 
-COPYWRITER
-1) Suggest a high-level idea in up to 10 lines of text.
-2) Wait for approval of the concept. The CMO's two review rounds happen before the owner sees it.
-3) Expand into a script with short time windows, one sentence per window per scene. Script: no dialogue.
-4) Get confirmation or feedback on the script, then revise. The CMO's two review rounds happen before the owner sees it.
-8) Write the full detailed prompt: background, sound, time windows, motion, scene continuity, eye-catching opening in the first 2-3 seconds, funny punchline at the end to drive follows. The full detailed prompt must explicitly state "no speech, no words, only non-verbal caveman vocalizations and sound effects".
-9) Wait for confirmation, then self-review and recommend up to 4 changes based on reference images and the prompt. The CMO's two review rounds happen before the owner sees it.
-10) Wait for approval on recommendations: some, none, or all.
-11) Regenerate the full detailed prompt if needed, then wait for confirmation again. The CMO's two review rounds happen before the owner sees it.
-16) Draft the TikTok and YouTube captions: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags. The owner reviews the full TikTok and YouTube captions before every publish. The CMO's two review rounds happen before the owner sees it.
+COPYWRITER (steps 1, 2, 5, 10)
+1) Before pitching, review all previous episodes (ep folders, prompts, captions) and any Marketing Analyst direction from the CMO. Never repeat an earlier idea or main object. Pitch a high-level idea in up to 10 lines.
+2) Script: short time windows, one sentence per window. No dialogue. Opening hook in the first 2-3 seconds, punchline at the end.
+5) Full detailed prompt: background, sound, time windows, motion, scene continuity, eye-catching opening in the first 2-3 seconds, funny punchline at the end to drive follows. Must explicitly state "no speech, no words, only non-verbal caveman vocalizations and sound effects". Self-review against the approved stills and list up to 4 recommended changes with the prompt; the CMO's review rounds decide which go in, and the Owner approves the final prompt.
+10) Captions: TikTok caption starts with "Episode N:" plus hashtags. YouTube title, description and hashtags (no separate keyword tags; the publishing tool has no tags field). Description mentions it is AI-generated animation.
 
-CREATIVE DESIGNER
-5) Create a storyboard from the approved script: one short frame per time window showing shot, action and which still it becomes. Send it for approval and revise until approved before producing any stills. The CMO's two review rounds happen before the owner sees it.
-6) Generate 10 stills total: reuse the existing cave and Gruk master images from GitHub, create 8 new ones referencing the scene.
-7) Send stills for approval, handle feedback or changes. The CMO's two review rounds happen before the owner sees it.
-12) Upload the 8 stills and prompt.txt to GitHub in a folder named ep<N>/ (lowercase ep plus the episode number), history only, no GitHub links or references used in the work. Folder names are always lowercase.
-13) Wait for final confirmation, then share the Runway plan: upload images directly to Runway, send the prompt directly, never upload or link the txt file. Use only the asset URLs Runway returns for those uploads; never GitHub, external or hand-copied links.
-14) Wait for confirmation, generate the video in Runway, wait for it to finish.
-15) Share the final video, wait for confirmation. Any intelligible spoken words in the final video are a defect. Once the final video is approved, the Creative Designer uploads the final video to the episode's ep<N>/ folder on GitHub (main) alongside the stills and prompt.txt.
+CREATIVE DESIGNER (steps 3, 4, 6, 7, 8, 9)
+3) Storyboard from the approved script: one frame per time window showing shot, action and which still it becomes. The opening hook frame and punchline frame must be visually unmistakable.
+4) Generate 10 stills: reuse the 2 masters (cave and Gruk) from GitHub plus 8 new ones following the storyboard. Send them to the CMO first. The CMO may have up to 4 redone, only if truly required, then presents them to the Owner.
+6) After the prompt is approved, upload the 8 new stills and prompt.txt to ep<N>/ on main (history only; never used as links in the work).
+7) Runway plan: model and settings (15s, 720p, 9:16, native audio), credit cost, image list and the exact prompt. Upload the image files directly through the Runway tool and use only the asset URLs Runway returns for those uploads; never GitHub, external or hand-copied links. Pass the prompt directly as text; never upload or link a txt file.
+8) Generate only after Owner approval. If downloading the finished video fails, retry the download only. Never resubmit a generation without Owner approval.
+9) Send the final video to the CMO. Any intelligible spoken words are a defect. After Owner approval, upload it to ep<N>/gruk-video.mp4 on main, so ep<N>/ holds the 8 stills, prompt.txt and the video.
 
 CMO
-Reviewer and manager, sole point of contact with the owner.
-NOTE: CMO REVIEW: Every deliverable needing owner approval (idea, script, storyboard, full detailed prompt, captions) goes to the CMO first. The CMO gives two rounds of critical feedback and the bot revises after each. Only the final revision after both rounds is shared with the owner, before any asset generation. After the stills are generated (step 6), the CMO reviews them and may have up to 4 images redone, only if truly required, before presenting them to the owner (step 7). The CMO reviews every deliverable against the series goal: the first 2-3 seconds grab attention, the episode ends with a strong punchline, and the story is good enough to bring followers.
-Every deliverable (idea, script, storyboard, stills, full prompt, captions) is shared with the owner in full, never summarized. The CMO brings owner approvals.
-All owner feedback is recorded in the FEEDBACK LOG and shared with the relevant bots right away.
-The Marketing Analyst reports only to the CMO, who passes direction to the Copywriter.
+- Runs the REVIEW GATE: 2 critical rounds on every deliverable against the SERIES GOAL before the Owner sees it.
+- Stills review: may have up to 4 stills redone, only if truly required.
+- Checks the Runway plan and final video (hook, punchline, no spoken words) before the Owner sees them.
+- Shares every deliverable with the Owner in full, verbatim, never summarized.
+- Records every piece of Owner feedback in the FEEDBACK LOG (merged to main) and shares it with every relevant bot right away.
+- Passes Marketing Analyst direction to the Copywriter before step 1.
 
-SOCIAL MANAGER
-16) If confirmed, ask to upload to TikTok and YouTube: YouTube needs title, description, hashtags; TikTok needs caption starting with Episode X plus hashtags; both posts need AI disclosure: TikTok "AI-generated content" label turned on, YouTube altered or synthetic content disclosure set to Yes in upload settings. The owner reviews the full TikTok and YouTube captions before every publish. The CMO's two review rounds happen before the owner sees it.
-17) Upload to both with the AI labels applied, confirm the labels are on, report they're live, share both links.
+SOCIAL MANAGER (step 11)
+11) Only after the Owner approves the captions: publish once per channel to TikTok and YouTube with the exact approved text. Turn on TikTok's "AI-generated content" label and set YouTube's altered or synthetic content disclosure to Yes. Verify both labels are saved, then report both live links to the CMO.
 
 MARKETING ANALYST
-Weekly review every Friday by 10:00 AM Israel time. Tracks TikTok/YouTube performance, comments, audience signals and trends, reviews the actual videos and researches the market, and recommends improvements to gain viewers, followers and subscribers. Reports only to the CMO, who passes direction to the Copywriter.
+Weekly review every Friday by 10:00 AM Israel time, no Owner confirmation needed. Tracks TikTok and YouTube performance, comments, audience signals and trends; reviews the actual videos and researches the market; recommends how to gain viewers, followers and subscribers. Reports only to the CMO.
 
 OWNER (Assaf)
-Approves the concept, script, storyboard, stills, full prompt, recommendations (some, none, or all), Runway plan, video generation, final video, and captions. The CMO is the sole point of contact.
+Approves: idea, script, storyboard, stills, full prompt, Runway plan (go to generate), final video, captions. Communicates only with the CMO. (Later, the Owner may hand all approvals to the CMO for full automation; until the Owner says so, every approval above stays with the Owner.)
 
 GENERAL RULES
-NOTE: "Episode X" is a placeholder. Always replace X with the actual episode number and never leave it as the letter X in captions or titles. After Episode 8, the next is Episode 9.
-NOTE: Gruk never speaks words. Audio is only non-verbal caveman vocalizations (grunts, huffs, yelps) plus sound effects. No dialogue and no spoken punchlines; the joke and punchline land visually or through sound.
-NOTE: Folder names are always lowercase. The episode folder is named ep<N>/ (lowercase ep plus the episode number), e.g. ep9/, ep10/, never uppercase.
-NOTE: Series goal: the first 2-3 seconds grab attention, the episode ends with a strong punchline, and the story is good enough to bring followers. The CMO reviews every deliverable against this goal.
+- SERIES GOAL: grab attention in the first 2-3 seconds, end with a strong punchline, tell a good story that brings followers.
+- Gruk never speaks words. Audio is only non-verbal caveman vocalizations (grunts, huffs, yelps) and sound effects. No dialogue, no spoken punchlines.
+- Episode numbering: the next episode is the last published episode number + 1 (Episode 9 is published, so the next is Episode 10). Never leave a placeholder like X or N in captions or titles.
+- GitHub folders are always lowercase: ep<N>/ (e.g. ep10/).
+- Each episode has 10 stills: 2 reused masters + 8 new.
 
 FEEDBACK LOG
+History only. The steps above are what bots follow.
 All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07: Before pitching (step 1), review all previous episodes and never repeat an earlier idea or main object (Ep9's robot-vacuum pitch was rejected as a repeat of Ep8).
 2026-11-07: Every deliverable (idea, script, storyboard, stills, full prompt, captions) is shared with the owner in full, never summarized.
@@ -74,3 +69,4 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07 - Assaf: CMO is the critical reviewer, with two feedback rounds with the Copywriter and Creative Designer before anything reaches the owner, and up to 4 stills redone after CMO review.
 2026-11-07 - Assaf: Goal for every episode: grab attention in the first 2-3 seconds, end with a punchline, and tell a good story that brings followers.
 2026-11-07 - Assaf: process.txt is split by role so it is clear which bot does each step.
+2026-11-07 - Assaf: Process tightened: one review gate, one owner per step, removed duplicate and contradictory steps. Full automation with the CMO approving alone comes later, only when the Owner says so.
