@@ -37,6 +37,7 @@ CMO
 - Stills review: may have up to 4 stills redone, only if truly required.
 - Checks the Runway plan before the Owner sees it.
 - Critically reviews the generated video (continuity and smoothness first, then the 2-3s hook, story, punchline and no spoken words) and sends the Owner the video with the CMO's review and recommendations for next time. After the Owner approves, the Designer uploads it to ep<N>/gruk-video.mp4, and the CMO passes the approved recommendations to the Creative Designer and Copywriter (priority) and logs them in the FEEDBACK LOG.
+- Owns final quality as manager. Checks every still side by side against the continuity sheet and reviews the generated video beat by beat for continuity, background, sound and flow. Flags every issue plainly with a recommendation and never passes weak work to the Owner.
 - Shares every deliverable with the Owner in full, verbatim, never summarized.
 - Records every piece of Owner feedback in the FEEDBACK LOG (merged to main) and shares it with every relevant bot right away.
 - Passes Marketing Analyst direction to the Copywriter before step 1.
@@ -76,3 +77,4 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07 - Assaf (Ep9): continuity broke. A puddle appeared, grew, then vanished; Gruk's hair went from a huge afro to flat straight hair; and a club, bones and the fire pit appeared or changed between shots. Continuity sheet and prompt continuity block added.
 2026-11-07 - Assaf: Changes are fine, but background, sound and frames must make sense and flow; no unexplained breaks.
 2026-11-07 - Assaf: Copywriter and Creative Designer must be persistent, precise and detail-obsessed; their output is critical to the video's success.
+2026-11-07 - Assaf: Ep9 was not good enough; the CMO as manager shares responsibility. CMO review is now side-by-side stills against the continuity sheet plus a beat-by-beat video review.
