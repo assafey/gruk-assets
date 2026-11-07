@@ -52,6 +52,7 @@ Approves: idea, script, storyboard, stills, full prompt, Runway plan (go to gene
 
 GENERAL RULES
 - SERIES GOAL: grab attention in the first 2-3 seconds, end with a strong punchline, tell a good story that brings followers. CONTINUITY is super important: the video must be smooth. Keep the same Gruk look, props, lighting, location and positions shot to shot, with explicit transitions and no jumps or pops between cuts. Copywriter scripts and prompts and Designer storyboards, stills and Runway plans are all judged on continuity. Changes are allowed, but background, sound and frames must make sense and flow from one to the next. Every change needs a logical cause and carries forward; nothing breaks abruptly without a reason.
+- QUALITY BAR: Copywriter and Creative Designer output is critical to every video's success. Be persistent, precise and detail-obsessed. Think through every detail, and self-check against the SERIES GOAL and continuity rules before sending anything to the CMO.
 - Gruk never speaks words. Audio is only non-verbal caveman vocalizations (grunts, huffs, yelps) and sound effects. No dialogue, no spoken punchlines.
 - Episode numbering: the next episode is the last published episode number + 1 (Episode 9 is published, so the next is Episode 10). Never leave a placeholder like X or N in captions or titles.
 - GitHub folders are always lowercase: ep<N>/ (e.g. ep10/).
@@ -74,3 +75,4 @@ All owner feedback is recorded here and shared with the relevant bots.
 2026-11-07 - Owner: continuity is super important, look for a smooth video. CMO reviews every generated video and recommends improvements for next time; approved recommendations go to the Designer and Copywriter.
 2026-11-07 - Assaf (Ep9): continuity broke. A puddle appeared, grew, then vanished; Gruk's hair went from a huge afro to flat straight hair; and a club, bones and the fire pit appeared or changed between shots. Continuity sheet and prompt continuity block added.
 2026-11-07 - Assaf: Changes are fine, but background, sound and frames must make sense and flow; no unexplained breaks.
+2026-11-07 - Assaf: Copywriter and Creative Designer must be persistent, precise and detail-obsessed; their output is critical to the video's success.
