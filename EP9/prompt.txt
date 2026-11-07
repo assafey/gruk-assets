@@ -1,0 +1,40 @@
+Create a 15 seconds 720p 9:16 vertical video with Seedance 2.5, with synchronized audio
+
+EPISODE 9 — GRUK VS. THE HAIR DRYER
+
+STYLE AND BACKGROUND
+Match the uploaded stills' polished, expressive stylized 3D animation, with tactile hide, individually rendered dark hair, wet skin highlights, detailed rock and physically grounded lighting. Preserve the character master's muscular proportions, large nose, thick eyebrows, dark beard, bare feet, ragged one-shoulder brown hide tunic and rope belt. Hair volume changes, never his skull or anatomy.
+
+Use one continuous cave matching the cave master and episode stills: curved tan-gray stone ceiling; mammoth drawings and handprints on the left wall; fur bedding, wooden club, scattered bone and stones on the left; glowing stone-ring hearth on the right; arched rear screen-right exit onto cool misty forest and ferns. Warm cave light contrasts with soft blue daylight. Retain the left-wall outlet from the episode stills despite its absence in the cave master. Keep the wet floor and foreground puddle consistent, with physically responsive reflections. Background objects remain stationary and unobtrusive.
+
+CONTINUITY AND CAMERA
+One uncluttered continuous shot, mostly full-body, with restrained smooth reframing only; no cuts, montage, angle reversals or static opening. Keep hands, hair, feet, puddle and the outlet-to-exit geography legible. Start already moving on frame one. Connect the reference poses with fluid acting, not a slideshow.
+
+One generic matte-black dryer remains in Gruk's hands throughout: same handle, narrow nozzle, circular rear intake and attached black cord. Air comes from the narrow nozzle, not the intake. Animate wrist rotations between reference orientations without redesigning or reversing the appliance. One physically continuous cord runs from the handle base to the left-wall plug and remains connected until exactly 10.0s; maintain its length while floor slack progressively disappears. Repair ambiguous still-image cable routing through continuous motion. After unplugging, the same intact cable and plug recoil and drop to the floor, remaining disconnected and visible; no severed cable, sparks or reconnection. No brands, logos, labels, subtitles, on-screen text or watermarks.
+
+TIMED ACTION — ONE SENTENCE PER WINDOW
+0.0–2.0s [N01]: Soaking-wet Gruk is already skidding backward across the cave floor, blasted by the roaring dryer clutched in both hands, his heels throwing water sprays and his alarmed face reacting to its exaggerated comic recoil.
+2.0–3.5s [N02]: He slams his feet into a wide planted stance and wrestles the bucking dryer like a wild wind spirit, arresting the skid with flexing arms and wobbling wrists while water drips from his hair and tunic.
+3.5–5.0s [N03]: He gains control and deliberately rotates the narrow nozzle toward his own beard and hair, his expression softening as the warm airflow ripples wet strands and the fur texture at his neckline.
+5.0–7.0s [N04, moving into its appearance]: His existing hair and beard dry, separate and swell into a giant glorious fluffy ball of individual springy strands around his unchanged head while he keeps the dryer blowing into them.
+7.0–8.5s [N04, appearance held]: He admires his matching fluffy reflection in the foreground puddle and then straightens into a proud heroic hand-on-hip pose while keeping the dryer aimed toward his hair.
+8.5–10.0s [N05]: He struts toward the screen-right cave exit, still drying his majestic hair as the single connected cord visibly draws its remaining slack from the left outlet until nearly taut.
+10.0–11.0s [N06]: At exactly 10.0s the cord snaps taut and pulls the intact plug cleanly out of the left-wall socket with visible separation and exposed prongs, abruptly silencing the dryer as the plug recoils, the cable drops and Gruk turns back in shock.
+11.0–12.5s [N07, approach to its pose]: Panicked, Gruk gives the dead dryer one quick shake, then puts his mouth on its narrow nozzle and blows hard while holding it securely in both hands with the detached plug on the floor.
+12.5–14.0s [N07 transitioning toward N08]: His cheeks swell comically like balloons as his giant hair and beard lose their airy volume and collapse strand by strand into the flat drooping state of N08 with a sad fwoomp, leaving his skull, facial identity, torso and clothing unchanged.
+14.0–15.0s [N08]: He pulls his mouth away, holds the silent dryer out toward the viewer, makes pleading eye contact and grunts the exact line, “Gruk need more wind.”
+
+SYNCHRONIZED AUDIO
+Start with a loud comic motor roar and rushing air on frame one, precisely synchronized to wet heel scrapes, splashes and dripping water. Add a grounded foot impact at 2.0s, motor wobble during the struggle, then steady warm-air whirr from 3.5s until 10.0s with subtle hair rustling during expansion. Keep soft cave room tone, faint hearth crackle and distant forest ambience underneath. At exactly 10.0s synchronize a distinct dry plug-pop with immediate motor and airflow cutoff, then a light plug/cord floor tap. After 11.0s use a short inert-appliance rattle and strained human blowing only; the unplugged motor never restarts. Align the sad descending fwoomp to the actual hair collapse at 12.5–14.0s. From 14.0s prioritize a low, rough, intelligible caveman voice, lip-synchronized to “Gruk need more wind.” and completed before 15.0s. No other speech, narration, music or added call-to-action; end on his pleading gaze and offered dryer as the audience-facing comic appeal.
+
+NUMBERED UPLOADED IMAGE REFERENCES — TEN TOTAL
+1. gruk-character.jpg — Identity, face, proportions, costume and baseline hair/beard; master throughout.
+2. gruk-cave.jpg — Cave architecture, furnishings, materials, lighting and exit geography; master throughout, retaining episode-still outlet and puddle.
+3. N01.png — 0.0–2.0s: wet backward skid, two-handed dryer grip, splash, left outlet and right exit.
+4. N02.png — 2.0–3.5s: planted wide stance and determined two-handed wrestling pose.
+5. N03.png — 3.5–5.0s: regained control and nozzle toward himself, with dark wet hair before expansion.
+6. N04.png — 5.0–8.5s: fluffy hair-and-beard target, followed by puddle admiration and proud pose across two windows.
+7. N05.png — 8.5–10.0s: proud rightward strut, fluffy hair and ongoing drying, cord still connected.
+8. N06.png — 10.0–11.0s: interrupted rightward step, shocked backward glance and unplugging, clarified through motion.
+9. N07.png — 11.0–14.0s: mouth on nozzle and both hands on dryer after a quick shake, followed by cheek inflation and animated hair collapse across two windows.
+10. N08.png — 14.0–15.0s: flattened drooping hair/beard, worried direct eye contact and offered dryer for the exact closing line.
