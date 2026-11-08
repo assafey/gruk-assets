@@ -1,0 +1,28 @@
+Create a 15 seconds 720p 9:16 vertical video with Seedance 2.5, with synchronized audio
+
+Polished expressive 3D caveman comedy, one continuous locked-camera, slightly elevated full-body view with room screen-right for seating.
+
+CONTINUITY
+Gruk keeps the character master (image 1)'s face, muscular proportions, dark wavy hair, short full beard, existing skin marks, left-shoulder brown hide tunic, belt and bare feet. The beige cave retains the cave master (image 2)'s arch shape, left-wall paintings, fur bed, club, bone on left floor, pebbles and right hearth; items stay stationary and disappear only behind real occlusion. Warm hearth light and cool forest daylight stay constant. Floor stays completely dry.
+One red satin-rubber cushion stays center-foreground, neck screen-left/back; one liftable seat-wide grey oval stone starts immediately screen-left, smaller than the cushion, with the thin stone thickness of image 9 throughout. Once placed, stone stays centered and only lowers under weight. The front/side rim stays visibly air-filled until 12s. Air only decreases: no refill, reset, rebound or bursting.
+
+ACTION AND SOUND
+0-2s (image 3): Gruk crouches behind and slightly screen-right of cushion; frame zero catches his right palm mid-shallow-press, left hand on knee, with a rude raspberry within 0.5s; he lifts his palm, recoils and checks his backside with a startled huff, leaving cushion inflated and stone untouched.
+2-3s (image 4): One quick shallow right-finger press gives a small squeak; he lifts finger, widens eyes AT cushion in realization, then glances at stone.
+3-6s (image 5): Both hands grip stone edges, lift with a brief effort grunt to waist height, then continuously lower it horizontally to graze cushion center; hands support ALL weight until 6s, with no indentation or big sound before then.
+6-9s (images 6-7): At 6s gently transfer stone weight and release both hands without dropping, pushing or sliding; partial squash makes the sharp LOUDEST raspberry 6-7.5s, then stone settles with swollen rim remaining; 7.5-9s he relaxes hands near knees and nods smugly in quiet.
+9-12s (image 8, then toward image 9): 9-10s rise with proud huff; 10-11s take ONE short forward-right step beside cushion and pivot body screen-right with soft foot scuffs; 11-12s hands free beside hips, lower pelvis over stone center, both feet on bare floor screen-right of seat without crossing cushion, front rim exposed; seated weight begins at 12s.
+12-15s (image 9): Body seated three-quarters screen-right; added weight lowers stone slightly, compressing remaining air with one tiny pathetic squeak 12-12.4s, much quieter than the big raspberry; freeze wide-eyed, slowly turn head and eyes to lens, then HOLD embarrassed stare through 15s, feet and compressed props still; end there.
+
+Constant soft cave room tone and faint hearth crackle continue beneath every effect and quiet pause; after final squeak only ambience. No speech, no words, only non-verbal caveman vocalizations and sound effects. No machine voices, music, text, brands or logos.
+
+IMAGE REFERENCES (9)
+1. gruk-character.jpg: Gruk identity.
+2. gruk-cave.jpg: fixed cave and lighting.
+3. N01.png: 0-2s recoil.
+4. N02.png: 2-3s finger discovery.
+5. N03.png: 3-6s two-hand lift.
+6. N04.png: 6-7.5s release.
+7. N05.png: 7.5-9s smug pause.
+8. N06.png: 9-10s standing.
+9. N08.png: 12-15s seated body and final gaze.
