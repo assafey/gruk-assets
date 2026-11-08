@@ -1,10 +1,10 @@
 GRUK THE CAVEMAN - PUBLISHED EPISODE AUDIT
 
-Purpose: shared history of published episodes, their exact published copy, links, feedback and lessons. Every bot (Copywriter, Creative Designer, Social Manager, Marketing Analyst and CMO) must read this before starting an episode, to avoid repeating ideas or main objects and to apply prior lessons. The CMO appends each new episode after it is published.
+Purpose: shared history of published episodes, their exact published copy, links, feedback and lessons. Every bot (Copywriter, Creative Designer, Social Manager, Marketing Analyst and CMO) must read this before starting an episode, to avoid repeating ideas or main objects and to apply prior lessons. The Auditor owns audit.txt and appends each new episode after it is published.
 
-Coverage: Episodes 1-9 only. Episode 10 is in progress and is excluded. An episode may be published on one platform without a verified post on the other. UNKNOWN - not found in records means the field was not established; it must not be guessed.
+Coverage: Episodes 1-10. An episode may be published on one platform without a verified post on the other. UNKNOWN - not found in records means the field was not established; it must not be guessed.
 Dates: separate actual sent times for TikTok and YouTube, converted to Asia/Jerusalem. Exact copy below is Buffer sent-post text/metadata, not later draft copy. Hashtags remain in the verbatim text; the YouTube hashtag field also repeats them for reference. A trailing space in Ep6 TikTok text is retained.
-Sources: main at 72016d07dc967d961e02ad4d25ca8d2af926519e (recursive tree, process.txt FEEDBACK LOG, ep8/prompt.txt, ep9/prompt.txt); Buffer My organization sent posts and post details; Social Manager, Copywriter and Marketing Analyst histories. CMO history search returned no record in this executor session. Briefs for Ep1-7 use the Copywriter's video-review account, supplemented by published copy; they are not invented shot-by-shot scripts.
+Sources: main at 72016d07dc967d961e02ad4d25ca8d2af926519e (recursive tree, process.txt FEEDBACK LOG, ep8/prompt.txt, ep9/prompt.txt); Buffer My organization sent posts and post details; Social Manager, Copywriter and Marketing Analyst histories. CMO history search returned no record in this executor session. Briefs for Ep1-7 use the Copywriter's video-review account, supplemented by published copy; they are not invented shot-by-shot scripts. Episode 10 addition: current main process.txt, audit.txt, ep10/ listing and ep10/prompt.txt; live Buffer get_post for 6af042f3004e4879a7aa2074 and 6af042f39214322f68444a25, read 2026-11-08 Asia/Jerusalem; attributed CMO completion report.
 Performance: dated Buffer snapshots, not live counts or causal proof. TikTok snapshot updated 2026-11-07 21:05:08 Asia/Jerusalem (UTC+2); YouTube snapshot updated 2026-11-07 21:19:07 Asia/Jerusalem (UTC+2). Zero is a recorded value, not proof of no public views.
 
 SHARED LESSONS
@@ -296,3 +296,41 @@ Feedback and lessons:
 - Performance - TikTok: 440 views, 2 likes, 0 comments, 0 shares, 8.91 seconds average watch
 - Performance - YouTube: 5 views, 0 likes, 0 comments
 
+================================================================
+EPISODE 10 - Gruk vs. the Whoopee Cushion
+
+Publish date - TikTok: 2026-11-08 11:39:38.147 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-08 11:37:56.636 Asia/Jerusalem (UTC+2)
+
+Brief: In the archived prompt, Gruk presses a red whoopee cushion, producing a raspberry within the first half-second, tests it with a finger, then lowers a grey stone onto it for the loudest raspberry. He nods smugly, stands and sits on the stone; a tiny squeak precedes his embarrassed stare at the camera. Main props and setting: red cushion, grey oval stone and dry cave. This is the intended 15s prompt narrative, not an independent review of the generated video.
+
+TikTok link: https://tiktok.com/@gruk.the.caveman/video/7705732592657566997
+YouTube link: https://www.youtube.com/shorts/DWEzKMuMTno
+
+TikTok caption (verbatim, including hashtags):
+Episode 10: Gruk wins. The cushion disagrees.
+AI-generated animation.
+#gruk #caveman #whoopeecushion #animation #funny #comedy
+
+YouTube title (verbatim):
+Gruk Beats the Cushion. Almost. | Episode 10
+
+YouTube description (verbatim, including hashtags):
+Gruk squashes a whoopee cushion with a stone. One loud raspberry later, he's nodding like he's won. Gruk's final look tells you how that goes.
+
+AI-generated animation. Subscribe for more Gruk.
+
+#shorts #gruk #caveman #whoopeecushion #funny #comedy
+
+YouTube hashtags (verbatim order in description):
+#shorts #gruk #caveman #whoopeecushion #funny #comedy
+
+Feedback and lessons:
+- Publication: live Buffer get_post for TikTok 6af042f3004e4879a7aa2074 and YouTube 6af042f39214322f68444a25 reports status=sent and the exact links/copy/sentAt times above. CMO reported approximately 11:40; the YouTube watch URL reported by CMO has the same video ID as Buffer's Shorts link. Public playback was not independently checked.
+- AI disclosures: current Buffer metadata reports TikTok isAiGenerated=true, YouTube isAiGenerated=false, contradicting the CMO report that both were true in Buffer. YouTube Studio disclosure is unverified; AI wording in the description does not establish the platform disclosure setting. Requires verification; no post changed.
+- Archive verified on main: ep10/prompt.txt, gruk-video.mp4, N01-N06.png and N08.png (seven new stills, not the standard eight). N07 is absent and omitted from the prompt's nine references (two masters plus seven new stills). Prompt requests Seedance 2.5, 15s, 720p, 9:16 and synchronized audio; Buffer lists 15.072s duration. Actual generation settings not independently checked.
+- CMO reports one Runway generation, task bbb1d8dc-f1c1-4bb3-ab8c-de9917e64904, costing 450 credits; not independently verified against Runway.
+- CMO reports an Owner-approved out-of-process stills exception, two extra redo rounds and N07 dropped. This is a reported approval, not independent evidence of Owner authorization; exact redo counts and approval records were not checked.
+- CMO video-review report (not independent observation): camera reframed at 3.2-3.8s and 9-12s; add explicit no zoom/reframe to lean and stand beats. Stone sank slightly into cushion; slight finger and foot warping. Apply as future continuity/anatomy lessons, not a reason to regenerate.
+- CMO reports caption round 1 needed four fixes before approval; exact fixes and Owner approval record are UNKNOWN - not independently established.
+- Additional Owner feedback and performance: UNKNOWN - not collected in this audit. Existing Ep7 TikTok uncertainty and Ep9 disclosure conflict remain unresolved.
