@@ -1,0 +1,298 @@
+GRUK THE CAVEMAN - PUBLISHED EPISODE AUDIT
+
+Purpose: shared history of published episodes, their exact published copy, links, feedback and lessons. Every bot (Copywriter, Creative Designer, Social Manager, Marketing Analyst and CMO) must read this before starting an episode, to avoid repeating ideas or main objects and to apply prior lessons. The CMO appends each new episode after it is published.
+
+Coverage: Episodes 1-9 only. Episode 10 is in progress and is excluded. An episode may be published on one platform without a verified post on the other. UNKNOWN - not found in records means the field was not established; it must not be guessed.
+Dates: separate actual sent times for TikTok and YouTube, converted to Asia/Jerusalem. Exact copy below is Buffer sent-post text/metadata, not later draft copy. Hashtags remain in the verbatim text; the YouTube hashtag field also repeats them for reference. A trailing space in Ep6 TikTok text is retained.
+Sources: main at 72016d07dc967d961e02ad4d25ca8d2af926519e (recursive tree, process.txt FEEDBACK LOG, ep8/prompt.txt, ep9/prompt.txt); Buffer My organization sent posts and post details; Social Manager, Copywriter and Marketing Analyst histories. CMO history search returned no record in this executor session. Briefs for Ep1-7 use the Copywriter's video-review account, supplemented by published copy; they are not invented shot-by-shot scripts.
+Performance: dated Buffer snapshots, not live counts or causal proof. TikTok snapshot updated 2026-11-07 21:05:08 Asia/Jerusalem (UTC+2); YouTube snapshot updated 2026-11-07 21:19:07 Asia/Jerusalem (UTC+2). Zero is a recorded value, not proof of no public views.
+
+SHARED LESSONS
+- Never repeat an earlier idea or main object. Ep9's first robot-vacuum pitch was rejected because Ep8 already used it.
+- Gruk never speaks words. Use only non-verbal caveman vocalizations and sound effects; remove spoken punchlines before generation.
+- Build a readable first 2-3 seconds, a good story and a strong final punchline. Check continuity of hair, props, background, lighting, floor/wet areas and sound before Runway.
+- CMO completes two critical rounds before owner review. Owner approvals remain required before generation and publication; no automatic approval.
+- One video generation only. All quality ownership is before Runway. Post-generation review yields future lessons, not regenerated videos.
+- Copywriter checks completed stills against script, continuity sheet and each other; CMO chooses still redos (within four) or script/prompt adaptation.
+- Publish exact owner-approved copy with AI disclosures; no separate YouTube keyword tags. Do not confuse drafted copy with published copy.
+- Early Analyst hypothesis: modern-object/appliance discovery outperformed bodily slapstick on views; firefighter had better engagement despite low reach. Keep around 15s and test late-evening posting, but the sample is small and YouTube data too sparse to steer creative.
+
+================================================================
+EPISODE 1 - Gruk vs Camera
+
+Publish date - TikTok: 2026-10-29 13:33:37 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-02 21:00:26 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk discovers a smartphone and takes a selfie with a makeup filter. A tiger photobomb supplies the visual surprise; key props are the phone and tiger. Exact opening hook timing and setting: UNKNOWN - not found in records.
+
+TikTok link: https://www.tiktok.com/@gruk.the.caveman/video/7702051506337467656
+YouTube link: https://www.youtube.com/shorts/O7fYHbfjtoc
+
+TikTok caption (verbatim, including hashtags):
+Episode 1: Gruk vs Camera 📱🪨 Bro discovered selfies before fire 😅🔥 What should Gruk discover next? 👇 Follow for Episode 2. #fyp #foryou #gruk #caveman #funny
+
+YouTube title (verbatim):
+Caveman finds a smartphone for the first time 📱🦴 #shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk has never seen a glowing rock that talks back. It does not go well. 😂 Follow for more Gruk vs the modern world. #caveman #funny #shorts #comedy
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #comedy
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Analyst early baseline: the 60s camera episode held viewers for about 29% of its length; suggested keeping future episodes around 15s. Historical baseline watch-time values differ from the later Buffer snapshot below.
+- Performance - TikTok: 1145 views, 4 likes, 0 comments, 0 shares, 8.52 seconds average watch
+- Performance - YouTube: 2 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 2 - Gruk learns karate
+
+Publish date - TikTok: 2026-10-30 15:56:47 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-03 23:45:48 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk tries karate and kicks a boulder, hurting himself rather than proving his mastery. The kick and foot-pain reversal are the gag; key props are logs and a stone/boulder. Exact opening hook timing and setting: UNKNOWN - not found in records.
+
+TikTok link: https://www.tiktok.com/@gruk.the.caveman/video/7702459505027665172
+YouTube link: https://www.youtube.com/shorts/p3Op1O8Q4EU
+
+TikTok caption (verbatim, including hashtags):
+Episode 2: Gruk learns karate 🥋🪵 Gruk thought he was a karate master… One kick. One stone. ZERO brain cells. 💀😂 Never underestimate a caveman’s ability to hurt himself. 😂 Wait for the ending! 🤣 Follow for Episode 3. #comedy #humor #fyp #funny #viralvideo
+
+YouTube title (verbatim):
+Caveman tries to chop wood… the hard way 🪓😂 #shorts
+
+YouTube description (verbatim, including hashtags):
+No axe. No plan. Only Gruk. Watch him take on the logs. Follow for more Gruk adventures. #caveman #funny #shorts #fail
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #fail
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Performance - TikTok: 586 views, 5 likes, 0 comments, 0 shares, 4.26 seconds average watch
+- Performance - YouTube: 0 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 3 - Gruk the firefighter
+
+Publish date - TikTok: 2026-11-01 22:46:10 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-04 22:01:21 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk warms his rear over a fire until his loincloth burns, turning the fire-maker into a firefighter. Fire and the burning loincloth provide the reversal in a cave setting. Exact opening hook timing: UNKNOWN - not found in records.
+
+TikTok link: https://www.tiktok.com/@gruk.the.caveman/video/7703307138206108934
+YouTube link: https://www.youtube.com/shorts/DId8zNfbano
+
+TikTok caption (verbatim, including hashtags):
+Episode 3: Gruk the firefighter 🧑‍🚒  Follow for Gruk's next terrible idea 🤣 #tiktokusa #funny #comedy #aivideo #caveman
+
+YouTube title (verbatim):
+Caveman invents fire… then has to put it out 🔥🚒 #shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk made fire. Gruk regrets fire. Gruk becomes firefighter. 🔥 Follow so you don't miss the next one. #caveman #funny #shorts #fire
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #fire
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Analyst early baseline: strongest engagement rate despite fewest views; reach and engagement quality are different signals.
+- Performance - TikTok: 230 views, 7 likes, 1 comments, 1 shares, 11.81 seconds average watch
+- Performance - YouTube: 0 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 4 - Gruk vs Door
+
+Publish date - TikTok: 2026-11-02 23:56:50 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-05 23:28:48 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk confronts automatic glass store doors as though they are a magic wall and believes he has won when they open. The doors close on his neck, reversing his triumph; the doors/store entrance are the main setting and prop. Exact opening hook timing: UNKNOWN - not found in records.
+
+TikTok link: https://www.tiktok.com/@gruk.the.caveman/video/7703696429931351316
+YouTube link: https://www.youtube.com/shorts/suK8Qn-EUw4
+
+TikTok caption (verbatim, including hashtags):
+Episode 4: Gruk vs Door  Follow for more episodes #caveman #comedy #aivideo #funny #fyp
+
+YouTube title (verbatim):
+Caveman vs automatic doors 🚪😤 Gruk wins… or does he? #shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk yells at magic glass wall. Glass wall opens. GRUK WIN! 💪 …Gruk did not win. 😂 Follow for more Gruk vs the modern world. #caveman #funny #shorts #comedy #automaticdoors
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #comedy #automaticdoors
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Performance - TikTok: 1184 views, 12 likes, 0 comments, 1 shares, 11.4 seconds average watch
+- Performance - YouTube: 9 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 5 - Gruk vs Popcorn
+
+Publish date - TikTok: 2026-11-04 00:18:11 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-06 10:29:37 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk encounters popcorn and its first amazing salty taste. The popcorn pot erupts, providing the physical-comedy payoff. Exact opening hook timing and setting: UNKNOWN - not found in records.
+
+TikTok link: https://www.tiktok.com/@gruk.the.caveman/video/7704073029759913217
+YouTube link: https://www.youtube.com/shorts/DDO2NOBCb-Y
+
+TikTok caption (verbatim, including hashtags):
+Episode 5: Gruk vs Popcorn  First amazing salty taste, follow for more! #caveman #comedy #funnyvideos #ai #fyp
+
+YouTube title (verbatim):
+Caveman vs popcorn 🍿😱 First salty taste #shorts
+
+YouTube description (verbatim, including hashtags):
+First amazing salty taste. Follow for more! #caveman #funny #shorts #comedy #funnyvideos
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #comedy #funnyvideos
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Analyst early baseline: popcorn was the top performer; late-night posting was suggested as a small-sample test, not established causation.
+- Performance - TikTok: 3811 views, 41 likes, 0 comments, 0 shares, 10.73 seconds average watch
+- Performance - YouTube: 4 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 6 - Gruk sneezes
+
+Publish date - TikTok: 2026-11-04 22:14:47 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-06 10:29:58 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk encounters a dandelion and sneezes. The fluff leaves him with a white beard, turning the sneeze into a visual punchline. Exact opening hook timing and setting: UNKNOWN - not found in records.
+
+TikTok link: https://www.tiktok.com/@gruk.the.caveman/video/7704412324114877716
+YouTube link: https://www.youtube.com/shorts/OrP3XpCxsuw
+
+TikTok caption (verbatim, including hashtags):
+Episode 6: Gruk sneezes 🤧 Follow for more! #caveman #funnyvideos #ai #fyp #animation 
+
+YouTube title (verbatim):
+Caveman sneezes… cave regrets it 🤧💥 #shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk sneezes. Follow for more! #caveman #funny #shorts #funnyvideos #animation
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #funnyvideos #animation
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Performance - TikTok: 412 views, 3 likes, 0 comments, 0 shares, 9.11 seconds average watch
+- Performance - YouTube: 26 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 7 - Caveman meets a crocodile by the river
+
+Publish date - TikTok: UNKNOWN - not found in records
+Publish date - YouTube: 2026-11-06 10:30:23 Asia/Jerusalem (UTC+2)
+
+Brief: Gruk performs a viral dance while a crocodile watches by the river. The dance and watching crocodile are documented, but the exact opening hook and final punchline are UNKNOWN - not found in records.
+
+TikTok link: UNKNOWN - not found in records
+YouTube link: https://www.youtube.com/shorts/8lvTZmd0wko
+
+TikTok caption (verbatim, including hashtags):
+UNKNOWN - not found in records
+
+YouTube title (verbatim):
+Caveman meets a crocodile by the river 🐊😱 #shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk meets a crocodile by the river. Wait for the ending! Follow for more Gruk adventures. #caveman #funny #shorts #comedy #crocodile
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #comedy #crocodile
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Publication gap: Analyst said Ep7 was never posted to TikTok; Social Manager only established that no Ep7 TikTok caption/post exists in Buffer, allowing that it may have been posted directly. Treat TikTok publication as unverified, not confirmed absent.
+- Performance - TikTok: UNKNOWN - not found in records
+- Performance - YouTube: 6 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 8 - Gruk found a new pet... and it found him a ride
+
+Publish date - TikTok: 2026-11-06 09:50:42 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-06 10:30:53 Asia/Jerusalem (UTC+2)
+
+Brief: A glowing robot vacuum rushes into the cave toward Gruk in the opening two seconds, turning puzzlement into shock and curiosity. After poking it, he climbs onto it and takes a wobbly ride out through the cave entrance, looking back in panic and amazement as it beeps. Main props and setting: white robot vacuum with blue ring, cave, fire ring, dusty floor and misty forest exit; this brief follows the stored prompt.
+
+TikTok link: https://tiktok.com/@gruk.the.caveman/video/7704962608985885972
+YouTube link: https://www.youtube.com/shorts/HYGsDv_GyOA
+
+TikTok caption (verbatim, including hashtags):
+Episode 8: Gruk found a new pet... and it found him a ride 🦣🌀 Wait for the ending 👀
+
+#fyp #animation #funnyvideos #caveman #robotvacuum
+
+YouTube title (verbatim):
+Caveman finds a new pet… and a ride 🦣🌀 #shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk found a new pet… and it found him a ride. Wait for the ending 👀 Follow for more Gruk vs the modern world. #caveman #funny #shorts #comedy #robotvacuum
+
+YouTube hashtags (verbatim order in description):
+#caveman #funny #shorts #comedy #robotvacuum
+
+Feedback and lessons:
+- Assaf episode-specific feedback: UNKNOWN - not found in records
+- CMO episode-specific review lessons: UNKNOWN - not found in records
+- Social Manager: the first YouTube upload was out of episode order and manually removed; replacement HYGsDv_GyOA was published after Ep5-7. Old b8FIfYr9LC4 is not the current canonical link.
+- Shared lesson: do not pitch a robot vacuum again; that repeat Ep9 idea was rejected.
+- Performance - TikTok: 2292 views, 18 likes, 0 comments, 0 shares, 11.22 seconds average watch
+- Performance - YouTube: 0 views, 0 likes, 0 comments
+
+================================================================
+EPISODE 9 - Gruk vs. the Hair Dryer
+
+Publish date - TikTok: 2026-11-07 12:17:29 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-07 12:15:42 Asia/Jerusalem (UTC+2)
+
+Brief: A soaking-wet Gruk is blasted backward by a hair dryer in the opening two seconds, wrestles it under control and dries his hair into a huge fluffy puffball. After admiring himself in a puddle, he struts toward the exit until the cord unplugs; he blows into the dead nozzle and his hair collapses. Main props and setting: black dryer, cord and wall outlet, puddle and cave; the published video retains the old spoken ending, a documented defect, not a model for future episodes.
+
+TikTok link: https://tiktok.com/@gruk.the.caveman/video/7705371246715817234
+YouTube link: https://www.youtube.com/shorts/u8MxM2fhWZ0
+
+TikTok caption (verbatim, including hashtags):
+Episode 9: Gruk vs. the Hair Dryer 💨 Big hair. Bigger ego. One tiny problem.
+#fyp #animation #funnyvideos #HairDryer #BadHairDay
+
+YouTube title (verbatim):
+Gruk vs. the Hair Dryer 💨 | Episode 9 #Shorts
+
+YouTube description (verbatim, including hashtags):
+Gruk discovers the hair dryer—and a whole new level of confidence. But his prehistoric makeover has one tiny problem…
+
+Episode 9 of Gruk The Caveman.
+AI-generated animation with sound.
+
+#Shorts #GrukTheCaveman #Animation #Comedy #BadHairDay
+
+YouTube hashtags (verbatim order in description):
+#Shorts #GrukTheCaveman #Animation #Comedy #BadHairDay
+
+Feedback and lessons:
+- Assaf (process.txt, 2026-11-07): the spoken voice did not suit a caveman; Gruk must never speak words.
+- Assaf (process.txt, 2026-11-07): continuity broke: a puddle appeared, grew, then vanished; huge afro changed to flat straight hair; club, bones and fire pit appeared or changed between shots.
+- Assaf (process.txt, 2026-11-07): Ep9 was not good enough; CMO shares responsibility. All quality, continuity and detail checks must happen before Runway; generated video is never regenerated.
+- CMO/process lessons: compare stills side by side with a continuity sheet; check every caused change persists, including puddle, hair and background props. Review generated video beat by beat for future lessons only.
+- Publishing: Social Manager reported exact approved copy, one post per channel and AI labels verified true; separate YouTube keyword tags were omitted with owner approval. Current Buffer get_post for YouTube reports isAiGenerated=false, contrary to that prior verification. Disclosure state is conflicting and requires verification; no post was changed during this audit.
+- The Ep9 caption rounds drafted on 2026-11-08 were abandoned after Assaf confirmed Ep9 was already published. They are NOT the published copy above.
+- Performance - TikTok: 440 views, 2 likes, 0 comments, 0 shares, 8.91 seconds average watch
+- Performance - YouTube: 5 views, 0 likes, 0 comments
+
