@@ -11,10 +11,10 @@ SHARED LESSONS
 - Never repeat an earlier idea or main object. Ep9's first robot-vacuum pitch was rejected because Ep8 already used it.
 - Gruk never speaks words. Use only non-verbal caveman vocalizations and sound effects; remove spoken punchlines before generation.
 - Build a readable first 2-3 seconds, a good story and a strong final punchline. Check continuity of hair, props, background, lighting, floor/wet areas and sound before Runway.
-- CMO completes two critical rounds before owner review. Owner approvals remain required before generation and publication; no automatic approval.
+- Since Episode 11 (process.txt, Nov 9, 2026): the CMO runs two critical review rounds and is the final approval on every in-process gate (pitch, script, storyboard and continuity sheet, stills, step 5 continuity outcome, the single Runway generation, captions and publishing). The Owner is involved only for exceptions or steps outside process.txt, extra credit or token spend beyond process limits, or when the CMO cannot manage alone. Episodes 1-10 ran under the earlier rules, where Owner approval was required before generation and publication.
 - One video generation only. All quality ownership is before Runway. Post-generation review yields future lessons, not regenerated videos.
-- Copywriter checks completed stills against script, continuity sheet and each other; CMO chooses still redos (within four) or script/prompt adaptation.
-- Publish exact owner-approved copy with AI disclosures; no separate YouTube keyword tags. Do not confuse drafted copy with published copy.
+- Since Episode 11: exactly 6 stills per episode (N01-N06; Episodes 1-10 used up to 8, N01-N08). After the CMO's review feedback, up to 3 stills regenerations are allowed; anything beyond 3 needs the Owner's explicit approval. The Copywriter checks completed stills against the script, the continuity sheet and each other; the CMO chooses still redos (within that limit) or script/prompt adaptation. Episodes 1-10 allowed up to 4 stills redos after CMO review.
+- Publish the exact CMO-approved copy (Owner-approved for Episodes 1-10) with AI disclosures; no separate YouTube keyword tags. Do not confuse drafted copy with published copy.
 - Early Analyst hypothesis: modern-object/appliance discovery outperformed bodily slapstick on views; firefighter had better engagement despite low reach. Keep around 15s and test late-evening posting, but the sample is small and YouTube data too sparse to steer creative.
 
 ================================================================
