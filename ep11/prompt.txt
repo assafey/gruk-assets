@@ -1,0 +1,29 @@
+Create a 15 seconds 720p 9:16 vertical video with Seedance 2.5, with synchronized audio
+
+One continuous locked wide-medium 9:16 cave shot. Gruk stays crouched in the screen-left third, feet planted. Until 10s his body is three-quarters toward the upper-right exit with his face readable; from the hide, the torso squares toward camera while the head stays turned toward the exit until 13s. No zoom, no push-in, no reframe on any beat, including the hide, the torso turn and the head turn.
+
+CONTINUITY
+Gruk keeps image 1's face, muscular build, dark wavy shoulder-length hair, short full beard, skin marks, thin waist cord and bare feet. Hair volume never changes. Each foot stays flat in the same spot, with five unwarped toes. Hands stay simple, never warped: the far hand's fingers stay curled on the canister as in image 3; the near hand, closest to camera, is a flat palm, fingers straight and together, never curled.
+From 0-10s the tunic is image 3's brown hip hide with a thin strap across the chest to his far shoulder and a mostly bare near chest; a loose flap of the same brown hide hangs barely visible behind his far shoulder from 0s, and during the hide his arms and shoulders drag it forward across his chest, where it settles as image 7's wider wrap and stays through 15s, with no sudden costume change.
+One plain red handheld air horn, canister plus flared trumpet, no text or logo, always in his hands. In 0-10s it stays at face height, aimed forward and slightly up, the flare well screen-left of and below the exit daylight opening; the flare may touch arch rock but never overlaps that opening or the forest. The horn is never set down and never sinks into or merges with hands, body or floor. From 12.5s it is fully hidden behind his back, held vertically, tight against his lower back, flare pointing down, no edge visible, both elbows angled back.
+The cave stays fixed: dry dusty floor, mammoth paintings and handprints on the screen-left wall, a small fur-bed patch behind him at screen-left, straw between his feet, pebbles, a screen-right ember hearth with no flames, and image 2's exit with misty forest visible beyond. No club and no bone anywhere. Warm hearth light and cool exit daylight stay constant. No other object or light in the cave moves.
+
+ACTION AND SOUND
+Soft cave room tone and faint hearth crackle continue under every effect and pause. No speech, no words, only non-verbal caveman vocalizations and sound effects. No machine voices, music, text, logos or brands.
+
+0-2s (image 3): Frame zero: the blast is already sounding at full volume, far hand on the canister, near flat palm pressing the button, eyes squeezed in a joyful toothy grin as the horn roars (no zoom, no push-in, no reframe).
+2-4s (image 4): At 2s the near palm lifts about 3cm off the button, leaving a visible gap, so the blast stops; its echo bounces off the walls while he lifts his chin, puffs his chest and looks proudly at the exit, horn still at face height (no zoom, no push-in, no reframe).
+4-7.5s (image 5): A short proud huff, then the near flat palm presses the button again for a longer, louder blast at the same aim, eyes squeezed in effort (no zoom, no push-in, no reframe).
+7.5-10s (image 6): At 7.5s the near palm lifts about 3cm off the button and his horn stops dead; a split second later one deep wet animal honk-roar answers from the forest outside only, clearly bigger and more distant than his horn, with one echo tail; the honk-roar comes only from offscreen in the forest and his gaping mouth makes no sound; mist surges once inside the exit opening and far treetops bend, both settling by 10s, while his eyes snap wide and his grin melts into an open-mouth gasp; no mist enters the cave and no other object or light in the cave moves (no zoom, no push-in, no reframe).
+10-12.5s (image 7): Eyes on the exit, he slowly carries the horn behind his back with both hands while his torso squares toward camera and the hide flap settles across his chest, as the answer's single echo tail fades completely by 12s; the hide finishes at 12.5s in ambience only, horn fully hidden, elbows back, mouth a small uneasy shape, feet planted (no zoom, no push-in, no reframe).
+12.5-15s (image 8): He holds that pose in silence until 13s, then slowly turns his head to near-frontal and gives the lens a guilty look with the same small uneasy mouth and a hint of clenched teeth, holding that stare through 15s; the head turn is slow and stops at near-frontal, the body does not turn further, the horn stays hidden, nothing after (no zoom, no push-in, no reframe).
+
+IMAGE REFERENCES (8)
+1. gruk-character.jpg: Gruk's face, hair, beard and body.
+2. gruk-cave.jpg: fixed cave, exit, forest and lighting.
+3. N01.png: 0-2s mid-blast joyful grin, palm on the button.
+4. N02.png: 2-4s proud pause, palm hovering, horn at face height.
+5. N03.png: 4-7.5s second louder blast, palm on the button.
+6. N04.png: 7.5-10s wide-eyed gasp, hovering palm, mist and bent treetops in the exit.
+7. N05.png: 10-12.5s horn hidden, squarer torso, wider wrap, uneasy mouth, eyes on the exit.
+8. N06.png: 12.5-15s near-frontal guilty head turn into the lens, horn hidden.
