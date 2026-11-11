@@ -2,9 +2,9 @@ GRUK THE CAVEMAN - PUBLISHED EPISODE AUDIT
 
 Purpose: shared history of published episodes, their exact published copy, links, feedback and lessons. Every bot (Copywriter, Creative Designer, Social Manager, Marketing Analyst and CMO) must read this before starting an episode, to avoid repeating ideas or main objects and to apply prior lessons. The Auditor owns audit.txt and appends each new episode after it is published.
 
-Coverage: Episodes 1-10. An episode may be published on one platform without a verified post on the other. UNKNOWN - not found in records means the field was not established; it must not be guessed.
+Coverage: Episodes 1-11. An episode may be published on one platform without a verified post on the other. UNKNOWN - not found in records means the field was not established; it must not be guessed.
 Dates: separate actual sent times for TikTok and YouTube, converted to Asia/Jerusalem. Exact copy below is Buffer sent-post text/metadata, not later draft copy. Hashtags remain in the verbatim text; the YouTube hashtag field also repeats them for reference. A trailing space in Ep6 TikTok text is retained.
-Sources: main at 72016d07dc967d961e02ad4d25ca8d2af926519e (recursive tree, process.txt FEEDBACK LOG, ep8/prompt.txt, ep9/prompt.txt); Buffer My organization sent posts and post details; Social Manager, Copywriter and Marketing Analyst histories. CMO history search returned no record in this executor session. Briefs for Ep1-7 use the Copywriter's video-review account, supplemented by published copy; they are not invented shot-by-shot scripts. Episode 10 addition: current main process.txt, audit.txt, ep10/ listing and ep10/prompt.txt; live Buffer get_post for 6af042f3004e4879a7aa2074 and 6af042f39214322f68444a25, read 2026-11-08 Asia/Jerusalem; attributed CMO completion report.
+Sources: main at 72016d07dc967d961e02ad4d25ca8d2af926519e (recursive tree, process.txt FEEDBACK LOG, ep8/prompt.txt, ep9/prompt.txt); Buffer My organization sent posts and post details; Social Manager, Copywriter and Marketing Analyst histories. CMO history search returned no record in this executor session. Briefs for Ep1-7 use the Copywriter's video-review account, supplemented by published copy; they are not invented shot-by-shot scripts. Episode 10 addition: current main process.txt, audit.txt, ep10/ listing and ep10/prompt.txt; live Buffer get_post for 6af042f3004e4879a7aa2074 and 6af042f39214322f68444a25, read 2026-11-08 Asia/Jerusalem; attributed CMO completion report. Episode 11 addition: current main process.txt, audit.txt, ep11/ listing and ep11/prompt.txt; live Buffer get_post for 6af4dc062b84624b7151c7ef and 6af4dc093f78b0223bc9eca0, read 2026-11-11 Asia/Jerusalem; attributed CMO completion report.
 Performance: dated Buffer snapshots, not live counts or causal proof. TikTok snapshot updated 2026-11-07 21:05:08 Asia/Jerusalem (UTC+2); YouTube snapshot updated 2026-11-07 21:19:07 Asia/Jerusalem (UTC+2). Zero is a recorded value, not proof of no public views.
 
 SHARED LESSONS
@@ -333,4 +333,45 @@ Feedback and lessons:
 - CMO reports an Owner-approved out-of-process stills exception, two extra redo rounds and N07 dropped. This is a reported approval, not independent evidence of Owner authorization; exact redo counts and approval records were not checked.
 - CMO video-review report (not independent observation): camera reframed at 3.2-3.8s and 9-12s; add explicit no zoom/reframe to lean and stand beats. Stone sank slightly into cushion; slight finger and foot warping. Apply as future continuity/anatomy lessons, not a reason to regenerate.
 - CMO reports caption round 1 needed four fixes before approval; exact fixes and Owner approval record are UNKNOWN - not independently established.
+- Additional Owner feedback and performance: UNKNOWN - not collected in this audit. Existing Ep7 TikTok uncertainty and Ep9 disclosure conflict remain unresolved.
+================================================================
+EPISODE 11 - Gruk vs. the Air Horn
+
+Publish date - TikTok: 2026-11-11 23:21:49.806 Asia/Jerusalem (UTC+2)
+Publish date - YouTube: 2026-11-11 23:20:10.687 Asia/Jerusalem (UTC+2)
+
+Brief: In the archived prompt, Gruk is already blasting a plain red handheld air horn at full volume in the opening two seconds, stops to look proudly at the cave exit, then blasts again longer and louder. A deeper, more distant animal honk-roar answers from the forest only; mist surges in the exit and treetops bend, both settling by 10s. He hides the horn behind his back as a hide flap settles into a wider wrap, then turns his head and gives the lens a guilty look through 15s. Main props and setting: one red air horn (canister plus flared trumpet), locked wide-medium cave shot, dry dusty floor, ember hearth with no flames, and a misty forest exit. This is the intended 15s prompt narrative, not an independent review of the generated video.
+
+TikTok link: https://tiktok.com/@gruk.the.caveman/video/7707026795823975688
+YouTube link: https://www.youtube.com/shorts/dzxogI9nN6M
+
+TikTok caption (verbatim, including hashtags):
+Episode 11: Gruk honked. The forest honked back.
+What answered him?
+AI-generated animation.
+#gruk #grukthecaveman #caveman #airhorn #animation #funny #comedy
+
+YouTube title (verbatim):
+Gruk Honks. Something Bigger Honks Back. | Episode 11
+
+YouTube description (verbatim, including hashtags):
+Gruk the Caveman blasts an air horn at the forest, proud of every echo. Then something much bigger answers. Watch how fast that horn disappears.
+
+AI-generated animation.
+Subscribe for more Gruk.
+
+#shorts #gruk #grukthecaveman #caveman #airhorn #funny #comedy
+
+YouTube hashtags (verbatim order in description):
+#shorts #gruk #grukthecaveman #caveman #airhorn #funny #comedy
+
+Feedback and lessons:
+- Publication: live Buffer get_post for TikTok 6af4dc062b84624b7151c7ef and YouTube 6af4dc093f78b0223bc9eca0 reports status=sent and the exact links/copy/sentAt times above. Buffer sent text matches /workspace/gruk-ep11/captions-round-2.txt character for character (aside from the draft file's section-separating trailing newlines). Public playback was not independently checked.
+- AI disclosures: TikTok - this session's Buffer metadata reports isAiGenerated=true (no ShowAIGC field was present in the get_post payload; CMO reported ShowAIGC=true). YouTube - CMO reports isAiGenerated=true was set and read back true at creation; this session's Buffer get_post returns isAiGenerated=false. Per the Episode 10 audit entry, Buffer's YouTube isAiGenerated read-back is unreliable and must not be used as disclosure evidence. YouTube platform disclosure was not independently inspected in this audit. AI wording in the description does not establish the platform disclosure setting. No post changed.
+- Archive verified on main: ep11/prompt.txt, gruk-video.mp4 and N01-N06.png (the standard six stills). Prompt lists eight image references (two masters plus N01-N06). Prompt requests Seedance 2.5, 15s, 720p, 9:16 and synchronized audio; Buffer lists 15.072s duration. Actual generation settings not independently checked. PRs 33, 34 and 35 are merged.
+- The air-horn idea and the air horn as main object do not appear in the Episode 1-10 premises in audit.txt. The cave and misty forest exit are recurring settings, and Episode 10's prompt brief also ends on an embarrassed stare at the camera; those are not the same idea or main object.
+- The archived prompt itself describes a tunic change from image 3's (N01) brown hip hide to image 7's (N05) wider wrap during the hide, which is consistent with the CMO report that N05/N06 deviations were accepted and bridged in the prompt. CMO reports all 3 stills regenerations were used; regeneration count and the acceptance decision were not independently checked.
+- CMO reports one Runway generation, task ab5b7936, costing 450 credits; not independently verified against Runway.
+- CMO reports Episode 11 was paused 2026-11-09 to 2026-11-11 for a Grok Bot usage reset, and stalled about 10 hours on 2026-11-09 because a report was lost; not independently verified.
+- Video-review lessons recorded in process.txt FEEDBACK LOG (PR 34, not independent observation): a wardrobe change between stills renders as a visible costume morph, so a prompt cannot bridge it and wardrobe deviations should be treated as stills defects; prop hides behind the body can clip (horn clipped into his hip at about 11.5s); environmental reactions run about 1s longer than prompted (leave 1s extra to settle); write 'no smoke' explicitly for the hearth; a repeated prop must sound the same ('the same sound, only longer and louder'); prefer sharp breaths or grunts over hums, which can read as speech-like. Worked well: frame-0 hook, locked camera, offscreen answer, guilty look into the lens. CMO additionally reports a costume morph at 10-12s, mist settling about 1s late, hearth smoke at 0-1s, an inconsistent second-blast sound, and a 'hmm' hum at 4s; those timings and phrasings are not in the FEEDBACK LOG line. Apply as future lessons, not a reason to regenerate.
 - Additional Owner feedback and performance: UNKNOWN - not collected in this audit. Existing Ep7 TikTok uncertainty and Ep9 disclosure conflict remain unresolved.
