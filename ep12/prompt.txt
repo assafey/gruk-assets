@@ -1,0 +1,30 @@
+Create a 15 seconds 720p 9:16 vertical video with Seedance 2.5, with synchronized audio
+
+One continuous locked wide-medium 9:16 cave shot, framed exactly as images 2-7. No zoom, no push-in, no reframe at any moment.
+
+CONTINUITY
+Gruk keeps image 1's face, muscular build, dark wavy shoulder-length hair, short full beard and bare feet. Hair volume never changes. His costume is locked to image 2: one brown hide hip wrap with ragged edges and one hide panel over his far shoulder; it never changes cut, colour, width or length, only folds with his pose. Simple five-finger hands; five unwarped toes.
+Until 7.5s he crouches in front of and to the right of the fur bed, three-quarters toward the screen-right hearth, his back to the bed. At 7.5s he sits and turns to face the camera as in image 5; from 8.5s his body, hands and feet never move again. His head never turns toward the bed and never rises into the exit daylight.
+One milky, slightly opaque bubble wrap sheet with large, clearly visible bubbles: bunched at chest height in both hands until 6s, then flat on the floor as image 4's wide mat, its edges visible around him to 15s. It never sinks into or merges with his hands, body or the floor; nothing passes through anything.
+The sleeper is the dark-brown shaggy fur bed at screen-left, partly behind his back: same outline, fur and position all 15s; its fur stays as dark and shaggy as image 2, never smoothing or rounding. Its only motions: slow breathing; at 2.5s it swells slightly and its top tuft curls up as in image 3, both settling back by 4s; one hitch at 4.5s; from 10.5s one eye in the fur as in images 6-7. The eye keeps image 6's size, dim and steady; it never grows, blinks, moves, glows or casts light. No head, no tusks, no trunk. The bed never stands, walks or turns.
+The cave stays fixed: dry dusty floor, mammoth paintings and handprints on the screen-left wall, pebbles, foreground boulders, a screen-right hearth of dark stones with low red embers only, no flames, no smoke, and the upper-right exit with misty forest. No straw, no club, no bone anywhere. Warm ember light and cool exit daylight stay constant. Nothing else in the cave moves but the ember glow and the fur bed's breathing.
+
+ACTION AND SOUND
+Soft room tone and faint ember crackle throughout. A slow deep snore from the fur bed runs 0-10s. Every pop is the same crisp single bubble-wrap pop sound. Gruk makes only breaths and one nose snort: no hums, no "hmm", no speech, no words. No music, no sting, no text, no logos.
+
+0-2s (image 2): Frame zero: a pop is already sounding as Gruk, crouched, grips the sheet at chest height in both hands, near thumb pressing a bubble, toothy grin, eyes on the sheet; the fur bed rises and falls with one slow snore (no zoom, no push-in, no reframe).
+2-4s (image 3): At 2.5s his near thumb presses another bubble, the same pop; the fur bed swells with a slow breath and its tuft curls up once, both settling back by 4s, unnoticed by Gruk (no zoom, no push-in, no reframe).
+4-7.5s (image 4): At 4.5s the same pop again; the snore catches once, then resumes slowly. At about 5.3s Gruk gives one short pleased snort through his nose. At 6s he lets the sheet go: it falls open flat into a wide mat on the floor under him, and he leans forward, near hand pressing the mat flat, far hand braced on the floor just short of the hearth stones, taking one sharp greedy breath in (no zoom, no push-in, no reframe).
+7.5-10s (image 5): At 7.5s he plops down onto the mat in one short motion, turning to face the camera and scooting a little forward on the mat, feet sliding forward, both hands landing on his knees, eyes squeezed shut in a blissful toothy grin, still by 8.5s, his grin silent, no giggle, no laugh; one rattling chain of the same pop runs under him as his weight settles, until 10s (no zoom, no push-in, no reframe).
+10-11s (image 6): At 10s the pops and the snore stop dead together, abruptly and silently, with no gasp or grunt; only room tone and ember crackle remain. At 10.5s one eye opens in the fur with a dim glint and holds a steady stare. Gruk stays still, chest and shoulders too, holding his breath, eyes shut, grin silent (no zoom, no push-in, no reframe).
+11-12.5s (image 7): At 11s his eyes open wide and his grin presses into a tight closed mouth, no teeth, brows knitting in worry; his head turns the last small way to face the lens and his eyes lock on it by 12.5s; body, hands and feet stay still; the eye in the fur stays exactly as at 10.5s, no extra glint, never brightening (no zoom, no push-in, no reframe).
+12.5-15s (image 7): He holds the worried stare into the lens while the eye in the fur holds its stare, in total stillness, only room tone and ember crackle, no last sound (no zoom, no push-in, no reframe).
+
+IMAGE REFERENCES (7)
+1. gruk-character.jpg: Gruk's face, hair, beard and body.
+2. N01.png: 0-2s crouch, sheet held at chest; wardrobe and set.
+3. N02.png: 2-4s bed swelled, tuft curled.
+4. N03.png: 4-7.5s flat mat under him, leaning forward.
+5. N04.png: 7.5-10s seated facing camera, eyes shut, grin.
+6. N05.png: 10-11s eye open in the fur, grin held.
+7. N06.png: 11-15s worried stare into the lens.
