@@ -1,0 +1,148 @@
+GRUK EP14 CONTINUITY SHEET r2 (CMO round 1 applied) (Creative Designer) - covers N01-N06, checked against every still and the Runway plan
+Source: script-round-2.txt (CMO-approved script of record). Areas A-F refer to cave-fit-map.png / cave-fit-map.txt. Framing is loose; no pixel positions. Storyboard r1 open questions Q1-Q5 are resolved as decided by the CMO.
+
+CAMERA: one locked full-height vertical shot, identical framing in all six stills and the video, as on the cave master. No zoom, no push-in, no reframe and no shake, including during the snatch, the jolt, the burst and the skid.
+
+GRUK (locked to the character master for all six stills):
+- Face: large bulbous nose, heavy dark brows, brown eyes, short full dark beard.
+- Hair: thick wavy dark-brown shoulder-length hair. Its shape and volume stay constant, never fluffed, flying or flattened during the burst or the skid.
+- Wardrobe: the brown hide one-shoulder tunic, the panel over his LEFT shoulder going diagonally across his chest, with the dark cord belt and the jagged hem. His right shoulder and chest are bare. The same wardrobe in every still: no change in cut, colour, length or panel width (wardrobe deviations count as stills defects).
+- Body: stocky, hairy and muscular, with five-finger hands and bare feet with five toes.
+- Scale: about a third of the frame height when kneeling (N01, N02, N03, N06); about half when standing mid-stride (N04). The N05 crouch is the same body scale, not resized, so he reads a little shorter than the stand. Locked camera, same framing and the same Gruk scale throughout.
+- Kneel (N01, N02, N03, N06): on both knees on floor A just left of pad F, body three-quarters toward screen-right so both knees are visible on the floor and the pose cannot be read as a sit or a crouch, face partly to the camera. N03 is still this kneel, only jolted upright, not a stand. The jolt must read clearly: back snapped straight, shoulders up, eyes wide (CMO Q4).
+- Hands in N01 and N06: screen-right hand open just above the end of the ibrik's handle; screen-left hand rests empty on his left thigh (CMO Q3).
+- Floor spot: the kneel spot (just left of F, mid-foreground of A, clear of the club, straw and bone) in N01, N02, N03 and N06. N04 is a single mid-stride in the centre of A, at the same depth (CMO Q5). N05 stays in the foreground of A at the same depth, always inside A.
+- He never stands, kneels or crouches on pad F, the hearth stones, the bed, the club, the straw, the bone or either boulder, and he never looks into the lens.
+- Only one Gruk in every still: no ghost trails, no duplicate figures, no smears, no motion blur. N04 is a crisp figure with no motion blur or ghosting, and only a small dust puff at his feet.
+
+IBRIK: one small polished copper ibrik with a narrow neck, a small pouring lip and one long straight dark handle.
+- Size lock, identical in every still, pinned to his anatomy: the pot is about as tall as his hand is long; the handle is about as long as his forearm. Do not rely on a prompt size lock alone (Ep13 lesson).
+- It never tips, dents, melts, doubles, or merges with his hand. He holds it only by the end of the handle, and only in his screen-right hand.
+- Where it is:
+  - N01, N04, N05, N06 (and in the video from 0s to 0.5s and from 5.8s to 15s): at rest on pad F, its side touching the near hearth stones, never on top of them or in the coals, handle pointing screen-left toward Gruk along the edge of A.
+  - N02 and N03 (and in the video from 0.5s to 5.8s): in his screen-right hand, held by the end of the handle. It is never set down in between. In N03 it stays in his right hand through the jolt (CMO Q4).
+
+CUP: one tiny plain white cup with no handle, about as tall as Gruk's thumb, the identical size in every still.
+- It never overflows, is never crushed, never merges with his fingers, and never doubles. When held, it is between his thumb and two fingers in his screen-left hand only.
+- Where it is:
+  - N01: upright on pad F at the camera-side edge, screen-right of the ibrik's handle, empty of his hand (he has not picked it up yet).
+  - N02: in his screen-left hand, at his lips, holding the first short pour, during the savouring sip.
+  - N03: still in his screen-left hand, empty, just off his lips, in the gulp-and-freeze (CMO Q4).
+  - N04, N05, N06: back upright on pad F at the camera-side edge, screen-right of the handle, empty, as set down at 5.8s.
+
+COFFEE AND FOAM: dark coffee with a light tan foam.
+- The foam is at the rim only in N01 and N06 (in the video: 0-0.5s and 13-14.3s, holding at the rim through 15s). N06 shows the foam at the rim, not mid-rise (CMO Q1). The visible cause is the heat of the stones beside the pot, not a self-propelled surge (Ep13 lesson).
+- In N02, N03, N04 and N05 the foam is down inside the pot.
+- The foam never spills, boils over, overflows or drips onto the pad or the floor (no Ep5 eruption, no Ep6 foam beard). There is no steam that reads as smoke.
+- Each pour is one short thin stream that lands inside the cup (video only). The cup never overflows.
+
+FLOOR AND SWEPT ARCS:
+- Floor A stays dry and dusty, as on the cave master.
+- N04: only a small dust puff at his feet; it does not haze the hearth (CMO Q5).
+- N05 and N06: exactly 3 clear, smooth, phone-readable swept arcs in the dust on the foreground of A, left and centre, not on pad F, not on the hearth, and not over the club, straw or bone (CMO Q2). The 3 arcs are identical in N05 and N06. They appear from the 9-12s sweep and stay unchanged through 15s. The 12s skid does not wipe them. The burst dust settles by 13s (so N06 is clear of the puff).
+
+SET (cave master, unchanged in all six stills):
+- Fur bed at the left middle, with the club, bone and straw kept exactly as on the master and never moved, never touched, and never used as standing room.
+- Hearth right of centre with low red embers only: no flames and no smoke (write "no smoke"). It stays clear. Nothing stands on it. The ibrik's side may touch the near stones from pad F only.
+- Misty forest exit at the back right, daylight never blocked.
+- Painted wall at the upper left, unchanged.
+- Boulders: left-edge and bottom-right, never touched. The loose pebbles along the left boulder stay as on the master; they are not stacked or picked up (the pitch's pebble tower is not in this script).
+- Nothing else in the cave moves except the ember glow in the video.
+- Cave master as a reference: use it as a stills input so the club, straw, bone and the set hold. Leave it out of the Runway video references; the six stills carry the set. (The Ep12 rule still applies: if those props ever had to stay out, the cave master would also be left out of the video references.)
+
+LIGHTING: warm glow from the hearth on the right and cool daylight from the exit at the back right, with the left foreground slightly darker. It stays constant, and only the ember glow flickers in the video. No smoke, no new light source.
+
+SOUND (prompt and video): room tone and a faint ember crackle throughout.
+- Timed sounds, at least 1s apart:
+  - Rising hiss 0-1.2s (fading out as the foam sinks).
+  - Soft sip at 3.0s.
+  - One sharp gulp at 4.8s.
+  - Fast whooshes and foot scuffs 6.0-9.0s.
+  - Brisk sweeping 9.0-11.0s, then silent strokes to 12.0s.
+  - One short skid scrape at 12.0s.
+  - The same rising hiss 13.0-14.3s.
+- The two pours and the setting down of the pot and cup are silent.
+- Gruk makes only quick sharp breaths: no hums, no hmm, no words, no grunts that read as speech. No music, no sting. Every gag reads on mute; sound is garnish only.
+
+INTENTIONAL CHANGES (each caused on screen and persisting):
+- 0s (N01): foam is at the rim, caused by the heat of the stones beside the pot.
+- 0.5-1.2s (video): he snatches the ibrik; the foam sinks and stays down until 13s. The ibrik stays in his screen-right hand until 5.8s.
+- 1.2s (video): he picks up the cup once in his screen-left hand; it stays there until 5.8s.
+- 1.5-2.0s (video): first short pour into the cup.
+- 3.0s (N02): the savouring sip.
+- 3.5-4.0s (video): second short pour into the same cup.
+- 4.8-5.5s (N03): the gulp, the full-body jolt and the freeze. He is still kneeling. The jolt must read clearly: back snapped straight, shoulders up, eyes wide. The empty cup is just off his lips in his left hand; the ibrik is still in his right.
+- 5.8s (video): ibrik and cup return to their rest places on F and stay there through N04, N05 and N06.
+- 6.0-9.0s (N04): he launches up and runs laps on A. N04 is a single mid-stride in the centre of A: a crisp figure, no motion blur or ghosting, only a small dust puff at his feet. Hair and wardrobe unchanged.
+- 9.0-12.0s (N05): he crouches and sweeps; exactly 3 swept arcs appear and persist through 15s, identical in N05 and N06.
+- 12.0-12.8s (video): he skids back and drops into the same kneel; the 3 arcs remain; dust is settled by 13s.
+- 13.0-15s (N06): the foam rises again, same cause (heat of the stones), to the rim by 14.3s; N06 shows the foam at the rim, not mid-rise; his hand hovers over the handle at 15s; his screen-left hand rests on his left thigh.
+- Nothing else changes, appears or disappears. No sitting on any object, no lens stare, no boil-over, no foam beard, no offscreen creature.
+
+STILLS METHOD (CMO has approved the r1 beats and locks; stills are on hold):
+- Stills are on hold until the OpenAI credits are restored. No other generator may be used. Nothing is generated in the meantime. The Ep13 built-in-generator exception does not carry over.
+- When credits are restored, and only after that: OpenAI gpt-image-2.6-flare first, or gpt-image-2.6-sunburst. Reference images as inputs. OPENAI_API_KEY is read from the box environment only and is never printed, logged or committed.
+- Image inputs: the character master, the cave master, and earlier approved stills. A rough layout guide (simple shapes for Gruk, the ibrik and the cup, showing the kneel spot, pad F and the 3 locked arcs) may be saved in the episode folder and passed as an extra stills input. The guide is never a Runway video reference.
+- Generate exactly 6 stills, N01-N06, matching this sheet. A first generation of each still does not count as a regeneration. After the CMO's review feedback, up to 3 stills regenerations are allowed; anything beyond 3 needs the Owner's explicit approval, requested by the CMO.
+- A still passes if it tells the story beat and keeps continuity of character, wardrobe and set; differences in exact size or position are accepted and are bridged in the prompt. Wardrobe mismatches, a changed prop size, missing or altered swept arcs between N05 and N06 (not exactly the same 3 arcs), smoke on the hearth, or the ibrik sitting on the stones or in the coals, are defects.
+- OpenAI key check (14 Nov 2026, Asia/Jerusalem): GET https://api.openai.com/v1/models returned HTTP 200 (this does not test credit). One gpt-4o-mini chat completion, max_tokens 1, message 'hi', returned HTTP 429, type insufficient_quota, code credit_balance_exhausted. No image endpoint was called.
+
+CMO DECISIONS (round 1, applied here)
+- Q1: N06 shows the foam at the rim.
+- Q2: exactly 3 swept arcs, identical in N05 and N06.
+- Q3: his screen-left hand rests on his left thigh in N01 and N06.
+- Q4: in N03 the empty cup is just off his lips, held in his left hand, with the ibrik still in his right. The jolt must read clearly: back snapped straight, shoulders up, eyes wide.
+- Q5: N04 is a single mid-stride in the centre of A. He is a crisp figure with no motion blur or ghosting, and only a small dust puff at his feet.
+
+RISKS
+- Prop-size drift; the thumb-sized cup vanishing or merging with his fingers; N04 ghosting or leaving A; hair flying in the burst; N03 read as a stand; kneel/crouch confusion; the 3 arcs changing after the skid; foam read as a spill, a beard or smoke; the ibrik placed in the coals; wardrobe or framing drift; OpenAI credit exhausted (429 insufficient_quota / credit_balance_exhausted). Stills stay on hold until credits are restored; no other generator may be used.
+
+DEVIATIONS (visible in the approved-r2 stills, recorded after generation, 14 Nov 2026, Asia/Jerusalem)
+Generator exception (Owner, relayed by the CMO): OpenAI credit was exhausted (key check: GET /v1/models HTTP 200; one gpt-4o-mini chat completion returned HTTP 429, type insufficient_quota, code credit_balance_exhausted). Under the Owner's OpenAI-failure rule, these stills were made with the built-in image generator (cursor namespace GenerateImage). No OpenAI image endpoint was called. The Ep13 one-episode built-in exception does not itself authorise this; this run follows the Owner rule as relayed by the CMO for when OpenAI fails.
+
+Regenerations used: 3 of 3, all on N01. None left for N02-N06. Logged in stills/logs/regenerations.txt.
+- Regen 1: N01-gen1 had the ibrik and cup on the hearth stones / coals, his screen-right hand already gripping the handle, and his screen-left hand not on his thigh.
+- Regen 2: N01-regen1 placed the pot correctly on the floor and fixed the hands, but turned the "handle" into a stirring rod standing in the coffee, plus a short mug-style loop.
+- Regen 3: N01-regen2 had a real side-handled ibrik on the floor, but the handle pointed screen-right into the hearth. N01-regen3 (the official N01) points the handle screen-left. Official stills: N01 = regen3; N02-N06 = first generation each.
+
+D1: In N01 the open screen-right hand hovers too high and more toward the pot than just above the end of the left-pointing handle. The kneel, the left hand on the left thigh, the pot on the floor in front of the ring (not in the coals), the attached handle pointing screen-left, the cup on the floor, and the foam at the rim all hold.
+
+D2: Kneeling Gruk in N01, N02, N03 and N06 reads larger than about a third of the frame height, closer to half. Standing N04 is also a little closer to the camera than the kneeling depth.
+
+D3: In several stills (especially N01) his eyes turn somewhat toward the camera rather than staying clearly on the pot. N02 is the exception (eyes closed). This is not a hard lens-stare ending, but it breaks the "never looking into the lens" / "eyes on the pot" lock, most clearly in N04.
+
+D4: The bone drifts or drops out. In N01 (and N02-N03) it has moved from its master place in front of the bed toward the mid floor, between Gruk and the pot. In N04-N06 it is not clearly visible. The club and straw remain.
+
+D5: The hearth sometimes shows small flame tongues, not only low red embers. Smoke is not a heavy plume in any still, but N01-regen attempts had faint haze; official stills are mostly clean of smoke.
+
+D6: Prop sizes are not identical across the six stills, and they drift from the anatomy lock (pot as tall as his hand, handle as long as his forearm, cup as tall as his thumb). In N02 and N03 the handle is shorter and is held near the pot body rather than by the end; the cup reads larger than in N01, and the N02 cup grip is closer to a fist than thumb-and-two-fingers.
+
+D7: N03 tells the gulp (wide eyes, empty cup just off his lips, still kneeling, both props still in his hands) but the full-body jolt is weak: his back is not clearly snapped straight and his shoulders are not clearly up. The jolt reads mostly in the face.
+
+D8: In N04 and N05 the ibrik handle is detached: a separate stick lies on the floor beside the pot, instead of one long handle attached to the side. N06 attaches a handle again, but it is short and points screen-right toward the hearth, not screen-left toward Gruk. So the rest pose is not held from N01 through N04-N06.
+
+D9: N04 has little or no visible dust puff at his feet. He is a crisp single mid-stride in the centre of A, with no motion blur or ghosting, which was the main lock.
+
+D10: Hair shape drifts: N04 and N05 look puffier and a little shorter than N01-N03 and N06.
+
+D11: In N05 his screen-right hand rests on the front hearth stones, breaking the "never on the hearth or pad F" lock. The crouch, both hands down, and the three sweep marks are otherwise clear.
+
+D12: N05 and N06 each show exactly 3 swept arcs in the same left-centre foreground of A, with a similar curved shape, but they are not identical (N06's set is slightly tighter and the inner hook differs). See stills/N05-N06-arcs-compare.png.
+
+D13: In N06 the open right hand hovers over the pot and near the stones, not just above the end of the handle. The foam is at the rim, he is back in a kneel, and his left hand is on his left thigh, so the loop pose mostly echoes N01, but the handle direction does not. The "twitch" is mild; he has a slight smile.
+
+A still still passes under the Ep13 bar if it tells the beat and keeps character, wardrobe and set continuity; differences in exact size or position are accepted. On that bar, the six beats are readable (N01 kneel and foam, N02 sip, N03 gulp and wide eyes, N04 crisp mid-stride, N05 crouch-and-sweep with three arcs, N06 loop kneel with foam and arcs). The clearer lock breaks that would have used a regeneration if any remained are D7 (weak body jolt), D8 (handle detach / wrong direction in N04-N06), D11 (hand on the hearth stones in N05), and D12 (arcs not identical). Wardrobe (left-shoulder panel, right shoulder bare) holds in all six. The camera stays a locked full-height cave shot, with only small framing drift.
+
+ADDED AFTER STEP 5 CONTINUITY CHECK (Copywriter E2-E6, CMO ruling 14 Nov 2026, Asia/Jerusalem; see continuity-review-step5.txt)
+
+D14 (E2): The ibrik handle takes four different forms across the six stills (a loop jug handle in N02-N03, a detached stick in N04-N05, a short handle in N06). The prompt keeps one long straight handle, attached and the same size as in N01.
+
+D15 (E3): In N05-N06 the coal ring is gone, replaced by loose dark stones. The prompt keeps the N01 hearth ring with low embers, no flames, no smoke.
+
+D16 (E4): Pale foam sits at the rim of the resting pot in N04-N05. The prompt bridges this as the foam settled low until the 13-14.3s rise.
+
+D17 (E5): N01 is a half-kneel and N06 a full kneel. The prompt keeps the same kneel at start and end for the loop.
+
+D18 (E6): The cup drifts to a different spot on the floor in N06. The prompt keeps the cup where he sets it down at about 5.8s.
+
+CMO RULINGS (14 Nov 2026): Hands swapped to match the stills: the ibrik is in his screen-left hand and the cup in his screen-right in N02-N03 (Copywriter E1), and the script follows the stills. No extra regenerations; the prompt bridges all deviations D1-D18. N04 is dropped from the Runway references; 5 stills go in: N01, N02, N03, N05, N06. The cave master stays out of the video references.

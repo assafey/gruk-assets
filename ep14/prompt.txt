@@ -1,0 +1,29 @@
+Create a 15 seconds 720p 9:16 vertical video with Seedance 2.5, with synchronized audio
+
+One continuous locked full-height 9:16 cave shot, framed exactly as image 1. No zoom, no push-in, no reframe, no shake at any moment.
+
+CONTINUITY
+Gruk is locked to image 1: face, beard, build, scale, bare feet, and dark wavy shoulder-length hair that never fluffs, flies or flattens. One brown hide one-shoulder tunic, panel over his left shoulder, dark cord belt, jagged hem, never changing. Simple five-finger hands. His feet visibly touch the floor on every step of the laps and the skid: no floating, no hovering, and no gliding apart from the one short skid at 12s. One Gruk only: no ghost trails, no duplicates, no blur. His eyes stay on the pot, the cup or the floor, never on the lens.
+His kneel is image 1's half-kneel: screen-left knee on the floor, screen-right foot planted, just left of the pot.
+The ibrik is exactly image 1's in every frame: small polished copper pot with a flared lip, about as tall as his hand, and ONE long straight dark handle, about forearm length, fixed to its side. The handle never detaches, shortens, bends or becomes a loop; there is never a loose stick on the floor. At rest it stands on the floor in front of the coal ring, side against the near stones, never on or in them, handle pointing screen-left toward Gruk.
+The cup: one tiny plain white handleless cup, thumb height, the same size always. At rest it stands just screen-right of the pot. Neither prop ever grows, shrinks, tips, doubles, or merges with his hand.
+Foam: dark coffee, light tan foam, at the rim only at 0-0.5s and 13-15s, low inside the pot from 1.2s to 13s. It never spills or drips; no steam.
+The hearth is image 1's ring of glowing red coals at screen-right, glowing 0-15s, never going out: no flames, no smoke. Gruk never touches it.
+The cave stays as image 1: fur bed screen-left with club, straw and bone exactly in place, never touched; mammoth paintings; dry dusty floor; boulders left and bottom right; misty exit back right. Only the coal glow moves.
+
+ACTION AND SOUND
+Room tone and faint ember crackle throughout. Gruk makes only quick sharp breaths: no hums, no words. No music, no text.
+
+0-1.2s (image 1): Frame zero: half-kneel, screen-left hand on his thigh, screen-right hand open above the pot; the foam is at the rim with a rising hiss. At 0.5s his screen-left hand snatches the ibrik up by the end of its handle; the foam sinks inside and the hiss fades by 1.2s. He grins at the pot (no zoom, no push-in, no reframe).
+1.2-4.2s (image 2): His screen-right hand picks up the cup once between thumb and two fingers. At 1.5-2.0s a short thin silent pour into the cup; at 3.0s one slow sip, eyes closed, soft sip sound; at 3.5-4.0s a second short silent pour. Ibrik stays in his screen-left hand, cup in his screen-right (no zoom, no push-in, no reframe).
+4.2-6s (image 3): At 4.8s one fast gulp with a sharp gulp sound, and his whole body jolts by 4.9s: back snapped straight, shoulders up, eyes wide, still kneeling. Frozen rigid 4.9-5.5s, ibrik and cup still in hand, nothing spills; then he sets both down by 5.8s, silently: ibrik at its rest spot, handle screen-left; cup screen-right of it (no zoom, no push-in, no reframe).
+6-9s: Caffeine burst: at 6.0s he springs up and runs fast comic laps in one loop on the centre floor between the bed and the coal ring, always fully in frame, one crisp figure about half the frame height, each foot landing on the floor, a small dust puff at his feet, fast whooshes and foot scuffs; never near the bed, bone, hearth, pot or cup (no zoom, no push-in, no reframe).
+9-12s (image 4): He crouches in the front-left floor and sweeps the dust with both hands in fast wide strokes, brisk sweeping sound until 11.0s, silent after, the arcs appearing only where his hands pass (no arcs before 9s), leaving exactly 3 smooth arcs as in image 4, between the bone and the camera, never touching the bone. Hands stay on the dust, never on the stones (no zoom, no push-in, no reframe).
+12-15s (image 5): At 12.0s he skids back, feet on the floor, with one short scrape into image 1's half-kneel by 12.8s, wide-eyed, dust settled by 13s. The 3 arcs stay exactly as at 12s. From 13.0s the foam, heated by the glowing coals, rises with the same rising hiss, at the rim by 14.3s. Screen-left hand on his thigh, screen-right hand open above the pot, eyes on the pot. The last frame matches frame zero (no zoom, no push-in, no reframe).
+
+IMAGE REFERENCES (5)
+1. N01.png: 0-1.2s; framing, set, Gruk, kneel, ibrik, handle, cup, coal ring.
+2. N02.png: about 3s; sip pose and hands only; ibrik shape, handle and both sizes from image 1.
+3. N03.png: about 5s; gulp face and hands only; ibrik shape, handle and both sizes from image 1.
+4. N05.png: about 10s; crouch and the 3 arcs; ibrik, handle, cup, coals as image 1.
+5. N06.png: 12.8-15s; arcs and hands; kneel, ibrik, handle, cup, coals as image 1.
